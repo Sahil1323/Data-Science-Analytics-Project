@@ -12,4 +12,4 @@ I will use the FourSquare API to collect data about locations of Pizza stores in
 3. Enter the 5 Major Cities, define the corresponding url & Send the GET Request and examine the results.
 4. Get relevant part of JSON and transform it into a pandas dataframe.
 5. Finding the total number of pizza places in different cities, the Foursquare API Only gives us the nearest 100 venues in the city.
-6. 
+6. Calculate the mean distance from mean coordinators.
