@@ -20,4 +20,4 @@ After using FOURSQUARE API & for display we have used Folium, we can see that Ne
 
 **Conclusion**:
 As we have calculated the mean distance from mean coordinators, we can see that New York & Jersey city are highly densed, but New york City is more dense than the Jersey city. 
-So by seeing this we come to the conclusion that
+So by seeing this we come to the conclusion that tourist will mostly come to New York city to enjoy pizza as the restaurant are quiet near to each other.
