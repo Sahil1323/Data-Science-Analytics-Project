@@ -1,0 +1,567 @@
+School_ID,NAME_OF_SCHOOL,Street_Address,City,ZIP_Code,Network_Manager,CPS_Performance_Policy_Status,CPS_Performance_Policy_Level,HEALTHY_SCHOOL_CERTIFIED,Safety_Icon ,SAFETY_SCORE,Longitude,Latitude,COMMUNITY_AREA_NUMBER,COMMUNITY_AREA_NAME,Ward,Police_District
+610038,Abraham Lincoln Elementary School,615 W Kemper Pl ,Chicago,60614,Fullerton Elementary Network,Not on Probation,Level 1,Yes,Very Strong,99,-87.64452163,41.92449696,7,LINCOLN PARK,43,18
+610281,Adam Clayton Powell Paideia Community Academy Elementary School,7511 S South Shore Dr ,Chicago,60649,Skyway Elementary Network,Not on Probation,Level 1,No,Average,54,-87.55673627,41.76032435,43,SOUTH SHORE,7,4
+610185,Adlai E Stevenson Elementary School,8010 S Kostner Ave ,Chicago,60652,Midway Elementary Network,Not on Probation,Level 2,No,Strong,61,-87.73170248,41.74711093,70,ASHBURN,13,8
+609993,Agustin Lara Elementary Academy,4619 S Wolcott Ave ,Chicago,60609,Pershing Elementary Network,Not on Probation,Level 1,No,Average,56,-87.6721446,41.8097569,61,NEW CITY,20,9
+610513,Air Force Academy High School,3630 S Wells St ,Chicago,60609,Southwest Side High School Network,Not on Probation,Not Enough Data,Yes,Average,49,-87.63279369,41.82814609,34,ARMOUR SQUARE,11,9
+610212,Albany Park Multicultural Academy,4929 N Sawyer Ave ,Chicago,60625,O'Hare Elementary Network,Not on Probation,Level 1,No,Strong,66,-87.70962725,41.9711433,14,ALBANY PARK,39,17
+609720,Albert G Lane Technical High School,2501 W Addison St ,Chicago,60618,North-Northwest Side High School Network,Not on Probation,Level 1,No,Very Strong,88,-87.69105603,41.94661693,5,NORTH CENTER,47,19
+610342,Albert R Sabin Elementary Magnet School,2216 W Hirsch St ,Chicago,60622,Fulton Elementary Network,Probation,Level 3,No,Strong,67,-87.68304259,41.90684338,24,WEST TOWN,1,14
+610524,Alcott High School for the Humanities,2957 N Hoyne Ave ,Chicago,60618,North-Northwest Side High School Network,Not on Probation,Not Enough Data,No,Strong,70,-87.68052441,41.93576106,5,NORTH CENTER,1,19
+610209,Alessandro Volta Elementary School,4950 N Avers Ave ,Chicago,60625,O'Hare Elementary Network,Not on Probation,Level 2,No,Average,43,-87.72464139,41.97160605,14,ALBANY PARK,39,17
+609799,Alexander Graham Bell Elementary School,3730 N Oakley Ave ,Chicago,60618,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.68605496,41.94952795,5,NORTH CENTER,47,19
+609947,Alexander Graham Elementary School,4436 S Union Ave ,Chicago,60609,Pershing Elementary Network,Not on Probation,Level 2,No,Average,49,-87.64338051,41.81329195,61,NEW CITY,11,9
+609963,Alexander Hamilton Elementary School,1650 W Cornelia Ave ,Chicago,60657,Ravenswood-Ridge Elementary Network,Not on Probation,Level 2,No,Strong,73,-87.67085683,41.94524725,6,LAKE VIEW,32,19
+610210,Alexander von Humboldt Elementary School,2620 W Hirsch St ,Chicago,60622,Fulton Elementary Network,Probation,Level 3,No,Weak,31,-87.69300325,41.90672216,24,WEST TOWN,26,14
+609808,Alex Haley Elementary Academy,11411 S Eggleston Ave ,Chicago,60628,Rock Island Elementary Network,Not on Probation,Level 2,No,Weak,28,-87.63359476,41.68663682,49,ROSELAND,34,22
+610028,Alfred David Kohn Elementary School,10414 S State St ,Chicago,60628,Rock Island Elementary Network,Probation,Level 3,No,Very Weak,19,-87.62360199,41.70485072,49,ROSELAND,34,5
+610098,Alfred Nobel Elementary School,4127 W Hirsch St ,Chicago,60651,Garfield-Humboldt Elementary Network,Not on Probation,Level 2,No,Weak,37,-87.72993324,41.90612797,23,HUMBOLDT PARK,37,25
+609788,Alice L Barnard Computer Math & Science Center Elementary School,10354 S Charles St ,Chicago,60643,Rock Island Elementary Network,Not on Probation,Level 1,No,Average,46,-87.65811642,41.70514024,72,BEVERLY,19,22
+610334,Al Raby High School,3545 W Fulton Blvd ,Chicago,60624,West Side High School Network,Probation,Level 3,No,Average,52,-87.71539705,41.886183,27,EAST GARFIELD PARK,28,11
+610131,Ambrose Plamondon Elementary School,2642 W 15th Pl ,Chicago,60608,Austin-North Lawndale Elementary Network,Not on Probation,Level 2,No,Average,45,-87.69250468,41.86028668,29,NORTH LAWNDALE,28,10
+610316,Amelia Earhart Options for Knowledge Elementary School,1710 E 93rd St ,Chicago,60617,Skyway Elementary Network,Not on Probation,Level 2,No,Very Strong,81,-87.58217727,41.72613498,48,CALUMET HEIGHTS,8,4
+609780,Ames Middle School,1920 N Hamlin Ave ,Chicago,60647,Fullerton Elementary Network,Probation,Level 2,No,Weak,38,-87.72177945,41.91605519,22,LOGAN SQUARE,26,25
+610339,Amos Alonzo Stagg Elementary School,7424 S Morgan St ,Chicago,60621,Englewood-Gresham Elementary Network,Probation,Level 3,No,Weak,23,-87.6492534,41.75892669,68,ENGLEWOOD,17,7
+610320,Ana Roque de Duprey Elementary School,2620 W Hirsch St ,Chicago,60622,Fulton Elementary Network,Probation,Level 2,Yes,Average,57,-87.69300325,41.90672216,24,WEST TOWN,26,14
+609837,Andrew Carnegie Elementary School,1414 E 61st Pl ,Chicago,60637,Burnham Park Elementary Network,Probation,Level 3,No,Average,48,-87.59079649,41.78339577,42,WOODLAWN,20,3
+610060,Andrew Jackson Elementary Language Academy,1340 W Harrison St ,Chicago,60607,Fulton Elementary Network,Not on Probation,Level 1,No,Very Strong,86,-87.66097599,41.87432724,28,NEAR WEST SIDE,2,12
+609869,Anna R. Langford Community Academy,6010 S Throop St ,Chicago,60636,Englewood-Gresham Elementary Network,Probation,Level 2,No,Weak,31,-87.6572053,41.78465652,67,WEST ENGLEWOOD,16,7
+610084,Annie Keller Elementary Gifted Magnet School,3020 W 108th St ,Chicago,60655,Rock Island Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.6972638,41.69719792,74,MOUNT GREENWOOD,19,22
+610229,A.N. Pritzker School,2009 W Schiller St ,Chicago,60622,Fulton Elementary Network,Not on Probation,Level 1,No,Average,59,-87.67779555,41.907025,24,WEST TOWN,1,14
+610277,Anthony Overton Elementary School,221 E 49th St ,Chicago,60615,Burnham Park Elementary Network,Probation,Level 3,No,Weak,32,-87.62012252,41.80557578,38,GRAND BOULEVARD,3,2
+609951,Ariel Elementary Community Academy,1119 E 46th St ,Chicago,60653,Burnham Park Elementary Network,Not on Probation,Level 2,No,NDA,,-87.5985003,41.81133445,39,KENWOOD,4,2
+610161,Arna Wendell Bontemps Elementary School,1241 W 58th St ,Chicago,60636,Englewood-Gresham Elementary Network,Probation,Level 3,No,Weak,33,-87.65634499,41.78857298,67,WEST ENGLEWOOD,16,7
+610171,Arnold Mireles Elementary Academy,9000 S Exchange Ave ,Chicago,60617,Skyway Elementary Network,Probation,Level 3,No,Weak,27,-87.55282373,41.73168217,46,SOUTH CHICAGO,10,4
+610037,Arthur A Libby Elementary School,5300 S Loomis Blvd ,Chicago,60609,Pershing Elementary Network,Probation,Level 3,No,Weak,36,-87.65996858,41.79764784,61,NEW CITY,16,9
+609887,Arthur Dixon Elementary School,8306 S Saint Lawrence Ave ,Chicago,60619,Skyway Elementary Network,Not on Probation,Level 2,No,Average,47,-87.61001515,41.74365776,44,CHATHAM,6,6
+609836,Arthur E Canty Elementary School,3740 N Panama Ave ,Chicago,60634,O'Hare Elementary Network,Not on Probation,Level 1,No,Very Strong,87,-87.8293319,41.94799245,17,DUNNING,36,16
+610268,Arthur R Ashe Elementary School,8505 S Ingleside Ave ,Chicago,60619,Skyway Elementary Network,Probation,Level 3,No,NDA,,-87.60113659,41.74015307,44,CHATHAM,8,6
+609941,Asa Philip Randolph Elementary School,7316 S Hoyne Ave ,Chicago,60636,Englewood-Gresham Elementary Network,Probation,Level 3,No,Very Weak,15,-87.67600175,41.76059741,67,WEST ENGLEWOOD,17,7
+610287,Ashburn Community Elementary School,8300 S Saint Louis Ave ,Chicago,60652,Midway Elementary Network,Not on Probation,Level 2,No,Average,48,-87.70964592,41.74233179,70,ASHBURN,18,8
+609820,Augustus H Burley Elementary School,1630 W Barry Ave ,Chicago,60657,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.66985204,41.93796493,6,LAKE VIEW,32,19
+400018,Austin Business and Entrepreneurship Academy High School,231 N Pine Ave ,Chicago,60644,West Side High School Network,Probation,Level 3,No,Weak,38,-87.76321191,41.88520477,25,AUSTIN,28,15
+610169,Austin O Sexton Elementary School,6020 S Langley Ave ,Chicago,60637,Burnham Park Elementary Network,Probation,Level 3,No,Weak,23,-87.60866927,41.78517099,42,WOODLAWN,20,3
+610501,Austin Polytechnical Academy High School,231 N Pine Ave ,Chicago,60644,West Side High School Network,Probation,Level 2,No,Weak,38,-87.76321191,41.88520477,25,AUSTIN,28,15
+609786,Avalon Park Elementary School,8045 S Kenwood Ave ,Chicago,60619,Skyway Elementary Network,Not on Probation,Level 2,No,Weak,32,-87.59161761,41.74826636,45,AVALON PARK,8,4
+609871,Barbara Vick Early Childhood & Family Center,2554 W 113th St ,Chicago,60655,Rock Island Elementary Network,NDA,NDA,No,NDA,,-87.6856634,41.68821843,75,MORGAN PARK,19,22
+609922,Belmont-Cragin Elementary School,2456 N Mango Ave ,Chicago,60639,Fullerton Elementary Network,Not on Probation,Level 2,No,Strong,75,-87.76984337,41.92559567,19,BELMONT CRAGIN,30,25
+609764,Benito Juarez Community Academy High School,2150 S Laflin St ,Chicago,60608,West Side High School Network,Probation,Level 3,No,Average,46,-87.66376931,41.85267306,31,LOWER WEST SIDE,25,12
+610265,Benjamin Banneker Elementary School,6656 S Normal Blvd ,Chicago,60621,Englewood-Gresham Elementary Network,Probation,Level 3,No,Weak,36,-87.63729464,41.77275433,68,ENGLEWOOD,6,7
+610290,Benjamin E Mays Elementary Academy,838 W Marquette Rd ,Chicago,60621,Englewood-Gresham Elementary Network,Not on Probation,Level 2,No,Weak,27,-87.64612737,41.77256081,68,ENGLEWOOD,16,7
+610076,Bernhard Moos Elementary School,1711 N California Ave ,Chicago,60647,Fulton Elementary Network,Probation,Level 2,No,Average,50,-87.69690545,41.9125311,24,WEST TOWN,1,14
+610150,Betsy Ross Elementary School,6059 S Wabash Ave ,Chicago,60637,Burnham Park Elementary Network,Probation,Level 3,No,Weak,39,-87.62365383,41.78383382,40,WASHINGTON PARK,20,3
+610175,Beulah Shoesmith Elementary School,1330 E 50th St ,Chicago,60615,Burnham Park Elementary Network,Probation,Level 2,No,Average,45,-87.59392226,41.80432122,39,KENWOOD,4,2
+610087,Blair Early Childhood Center,6751 W 63rd Pl ,Chicago,60638,Midway Elementary Network,NDA,NDA,No,NDA,,-87.79056836,41.77652935,64,CLEARING,23,8
+609969,Bret Harte Elementary School,1556 E 56th St ,Chicago,60637,Burnham Park Elementary Network,Probation,Level 3,No,Strong,63,-87.58686328,41.7934746,41,HYDE PARK,5,2
+610106,Brian Piccolo Elementary Specialty School,1040 N Keeler Ave ,Chicago,60651,Garfield-Humboldt Elementary Network,Probation,Level 3,No,Weak,27,-87.73129753,41.9001461,23,HUMBOLDT PARK,37,11
+610317,Brighton Park Elementary School,3825 S Washtenaw Ave ,Chicago,60632,Pershing Elementary Network,Not on Probation,Level 1,No,Average,55,-87.69204069,41.82391375,58,BRIGHTON PARK,12,9
+610381,Bronzeville Scholastic Academy High School,4934 S Wabash Ave ,Chicago,60615,South Side High School Network,Probation,Level 3,No,Average,41,-87.62448408,41.80456384,38,GRAND BOULEVARD,3,2
+609821,Burnham Elementary Inclusive Academy,1903 E 96th St ,Chicago,60617,Lake Calumet Elementary Network,Not on Probation,Level 1,No,Strong,61,-87.57759489,41.72050221,51,SOUTH DEERING,7,4
+609827,Burnside Elementary Scholastic Academy,650 E 91st Pl ,Chicago,60619,Skyway Elementary Network,Probation,Level 2,No,Average,51,-87.60747108,41.72850759,44,CHATHAM,6,6
+610353,Calmeca Academy of Fine Arts and Dual Language,3456 W 38th St ,Chicago,60632,Pershing Elementary Network,Not on Probation,Level 2,Yes,Average,58,-87.71160875,41.82440547,58,BRIGHTON PARK,12,9
+609729,Carl Schurz High School,3601 N Milwaukee Ave ,Chicago,60641,North-Northwest Side High School Network,Probation,Level 3,No,Average,48,-87.73562542,41.94640794,16,IRVING PARK,38,17
+610039,Carl von Linne Elementary School,3221 N Sacramento Ave ,Chicago,60618,Fullerton Elementary Network,Not on Probation,Level 1,No,Strong,68,-87.70259825,41.94001885,21,AVONDALE,33,17
+610238,Carrie Jacobs Bond Elementary School,7050 S May St ,Chicago,60621,Englewood-Gresham Elementary Network,Probation,Level 2,No,Average,54,-87.65305514,41.76538639,68,ENGLEWOOD,17,7
+609839,Carroll-Rosenwald Specialty Elementary School,2929 W 83rd St ,Chicago,60652,Midway Elementary Network,Not on Probation,Level 2,No,Weak,35,-87.696003,41.74248931,70,ASHBURN,18,8
+610345,Carter G Woodson South Elementary School,4414 S Evans ,Chicago,60653,Burnham Park Elementary Network,Probation,Level 3,No,Weak,26,-87.60845505,41.81447955,38,GRAND BOULEVARD,3,2
+610148,Cesar E Chavez Multicultural Academic Center Elementary School,4747 S Marshfield Ave ,Chicago,60609,Pershing Elementary Network,Not on Probation,Level 1,No,Average,54,-87.66600055,41.80715514,61,NEW CITY,20,9
+609679,Charles Allen Prosser Career Academy High School,2148 N Long Ave ,Chicago,60639,North-Northwest Side High School Network,Not on Probation,Level 2,No,Average,59,-87.76108432,41.92003613,19,BELMONT CRAGIN,37,25
+610005,Charles Evans Hughes Elementary School,4247 W 15th St ,Chicago,60623,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Average,42,-87.73177486,41.86049033,29,NORTH LAWNDALE,24,10
+609879,Charles Gates Dawes Elementary School,3810 W 81st Pl ,Chicago,60652,Midway Elementary Network,Not on Probation,Level 2,No,Average,44,-87.71738613,41.74510467,70,ASHBURN,18,8
+609966,Charles G Hammond Elementary School,2819 W 21st Pl ,Chicago,60623,Pilsen-Little Village Elementary Network,Not on Probation,Level 2,No,Average,40,-87.69627777,41.85269133,30,SOUTH LAWNDALE,12,10
+610366,Charles H Wacker Elementary School,9746 S Morgan St ,Chicago,60643,Rock Island Elementary Network,Probation,Level 2,No,Weak,32,-87.6480814,41.7162148,73,WASHINGTON HEIGHTS,21,22
+610030,Charles Kozminski Elementary Community Academy,936 E 54th St ,Chicago,60615,Burnham Park Elementary Network,Probation,Level 3,No,Weak,36,-87.60246287,41.7980295,41,HYDE PARK,4,2
+609996,Charles N Holden Elementary School,1104 W 31st St ,Chicago,60608,Pershing Elementary Network,Not on Probation,Level 2,No,Average,53,-87.65380002,41.83805473,60,BRIDGEPORT,11,9
+609833,Charles P Caldwell Academy of Math & Science Elementary School,8546 S Cregier ,Chicago,60617,Skyway Elementary Network,Probation,Level 3,No,Weak,25,-87.58076569,41.73922735,45,AVALON PARK,8,4
+609732,Charles P Steinmetz Academic Centre High School,3030 N Mobile Ave ,Chicago,60634,North-Northwest Side High School Network,Probation,Level 3,No,Weak,26,-87.78355194,41.93563171,19,BELMONT CRAGIN,36,25
+609875,Charles R Darwin Elementary School,3116 W Belden Ave ,Chicago,60647,Fullerton Elementary Network,Not on Probation,Level 2,No,Average,58,-87.70543099,41.92334998,22,LOGAN SQUARE,26,14
+609986,Charles R Henderson Elementary School,5650 S Wolcott Ave ,Chicago,60636,Englewood-Gresham Elementary Network,Probation,Level 3,No,Very Weak,16,-87.67192466,41.79061716,67,WEST ENGLEWOOD,15,7
+609813,Charles S Brownell Elementary School,6741 S Michigan Ave ,Chicago,60637,Skyway Elementary Network,Not on Probation,Level 2,No,Weak,20,-87.62170972,41.77163474,69,GREATER GRAND CROSSING,20,3
+609883,Charles S Deneen Elementary School,7240 S Wabash Ave ,Chicago,60619,AUSL Schools,Probation,Level 2,No,Average,55,-87.62338156,41.76250359,69,GREATER GRAND CROSSING,6,3
+610194,Charles Sumner  Math & Science Community Acad Elementary School,4320 W 5th Ave ,Chicago,60624,Garfield-Humboldt Elementary Network,Probation,Level 3,No,Average,41,-87.73355414,41.87084922,26,WEST GARFIELD PARK,24,11
+609897,Charles W Earle Elementary School,6121 S Hermitage Ave ,Chicago,60636,Englewood-Gresham Elementary Network,Probation,Level 2,No,Weak,24,-87.66777712,41.78230211,67,WEST ENGLEWOOD,15,7
+610248,Chicago Academy Elementary School,3400 N Austin Ave ,Chicago,60634,AUSL Schools,Not on Probation,Level 1,No,Strong,66,-87.77650575,41.94215439,17,DUNNING,38,16
+610340,Chicago Academy High School,3400 N Austin Ave ,Chicago,60634,AUSL Schools,Not on Probation,Level 2,No,Average,58,-87.77650575,41.94215439,17,DUNNING,38,16
+609753,Chicago High School for Agricultural Sciences,3857 W 111th St ,Chicago,60655,Far South Side High School Network,Not on Probation,Level 1,No,Very Strong,87,-87.71773863,41.69119388,74,MOUNT GREENWOOD,19,22
+609754,Chicago Military Academy High School,3519 S Giles Ave ,Chicago,60653,South Side High School Network,Not on Probation,Level 2,No,Weak,32,-87.61917837,41.83053768,35,DOUGLAS,2,2
+609674,Chicago Vocational Career Academy High School,2100 E 87th St ,Chicago,60617,South Side High School Network,Probation,Level 3,No,Weak,27,-87.57324389,41.73720173,45,AVALON PARK,8,4
+609899,Christian Ebinger Elementary School,7350 W Pratt Ave ,Chicago,60631,O'Hare Elementary Network,Not on Probation,Level 1,No,Strong,78,-87.81116435,42.00443557,9,EDISON PARK,41,16
+609705,Christian Fenger Academy High School,11220 S Wallace St ,Chicago,60628,Far South Side High School Network,Probation,Level 3,No,Weak,36,-87.63760833,41.68993885,49,ROSELAND,34,22
+609863,Christopher Columbus Elementary School,1003 N Leavitt St ,Chicago,60622,Fulton Elementary Network,Not on Probation,Level 1,No,Strong,66,-87.68190167,41.89958139,24,WEST TOWN,32,13
+609790,Clara Barton Elementary School,7650 S Wolcott Ave ,Chicago,60620,Englewood-Gresham Elementary Network,Probation,Level 3,No,Weak,25,-87.67096453,41.75421962,71,AUBURN GRESHAM,18,6
+610347,Claremont Academy Elementary School,2300 W 64th St ,Chicago,60636,Midway Elementary Network,Probation,Level 2,No,Weak,36,-87.68108634,41.77753754,66,CHICAGO LAWN,15,8
+610499,Collins Academy High School,1313 S Sacramento Dr ,Chicago,60623,AUSL Schools,Not on Probation,Level 2,No,Strong,60,-87.70200761,41.86416169,29,NORTH LAWNDALE,24,10
+610170,Columbia Explorers Elementary Academy,4520 S Kedzie Ave ,Chicago,60632,Pershing Elementary Network,Not on Probation,Level 2,No,Average,59,-87.70423481,41.81105689,58,BRIGHTON PARK,14,8
+610004,Countee Cullen Elementary School,10650 S Eberhart Ave ,Chicago,60628,Rock Island Elementary Network,Probation,Level 3,No,Very Weak,14,-87.61128176,41.70036107,49,ROSELAND,9,5
+609781,Crispus Attucks Elementary School,5055 S State St ,Chicago,60609,Burnham Park Elementary Network,Probation,Level 3,No,Average,45,-87.6257474,41.80214349,38,GRAND BOULEVARD,3,2
+609873,Crown Community Academy of Fine Arts Center Elementary School,2128 S Saint Louis Ave ,Chicago,60623,Austin-North Lawndale Elementary Network,Probation,Level 2,No,Weak,27,-87.7125068,41.85266155,29,NORTH LAWNDALE,24,10
+610063,Cyrus H McCormick Elementary School,2712 S Sawyer Ave ,Chicago,60623,Pilsen-Little Village Elementary Network,Not on Probation,Level 1,Yes,NDA,,-87.706336,41.84224508,30,SOUTH LAWNDALE,22,10
+609804,Daniel Boone Elementary School,6710 N Washtenaw Ave ,Chicago,60645,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Average,52,-87.69750011,42.00343519,2,WEST RIDGE,50,24
+610083,Daniel C Beard Elementary School,6445 W Strong St ,Chicago,60656,O'Hare Elementary Network,Not Applicable,Not Enough Data,No,NDA,,-87.78963691,41.97009738,10,NORWOOD PARK,41,16
+610380,Daniel Hale Williams Prep School of Medicine,4934 S Wabash Ave ,Chicago,60615,South Side High School Network,Not on Probation,Level 2,No,Average,50,-87.62448408,41.80456384,38,GRAND BOULEVARD,3,2
+609870,Daniel J Corkery Elementary School,2510 S Kildare Ave ,Chicago,60623,Pilsen-Little Village Elementary Network,Not on Probation,Level 2,No,Weak,39,-87.73122946,41.84559878,30,SOUTH LAWNDALE,22,10
+609835,Daniel R Cameron Elementary School,1234 N Monticello Ave ,Chicago,60651,Garfield-Humboldt Elementary Network,Probation,Level 3,No,Average,42,-87.71796315,41.90378521,23,HUMBOLDT PARK,26,25
+610223,Daniel S Wentworth Elementary School,6950 S Sangamon St ,Chicago,60621,Englewood-Gresham Elementary Network,Probation,Level 3,No,Weak,30,-87.64825544,41.76728177,68,ENGLEWOOD,17,7
+610221,Daniel Webster Elementary School,4055 W Arthington St ,Chicago,60624,Garfield-Humboldt Elementary Network,Not on Probation,Level 1,No,Average,48,-87.72748159,41.86988904,26,WEST GARFIELD PARK,24,11
+609704,David G Farragut Career Academy High School,2345 S Christiana Ave ,Chicago,60623,West Side High School Network,Probation,Level 2,No,Average,43,-87.70866954,41.8485793,30,SOUTH LAWNDALE,22,10
+610402,DeVry University Advantage Academy High School,3300 N Campbell ,Chicago,60618,North-Northwest Side High School Network,Not on Probation,Level 1,No,NDA,,-87.6907993,41.94142629,5,NORTH CENTER,47,19
+609885,Dewey Elementary Academy of Fine Arts,5415 S Union Ave ,Chicago,60609,Pershing Elementary Network,Probation,Level 3,No,Average,41,-87.642615,41.7956493,61,NEW CITY,3,9
+609859,DeWitt Clinton Elementary School,6110 N Fairfield Ave ,Chicago,60659,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Average,47,-87.69839748,41.99256421,2,WEST RIDGE,50,24
+610515,Disney II Magnet School,3815 N Kedvale Ave ,Chicago,60641,O'Hare Elementary Network,Not on Probation,Level 1,No,NDA,,-87.73060545,41.95048055,16,IRVING PARK,38,17
+610077,Donald Morrill Math & Science Elementary School,6011 S Rockwell St ,Chicago,60629,Midway Elementary Network,Probation,Level 3,No,Weak,28,-87.68851192,41.78428993,66,CHICAGO LAWN,15,8
+610198,Douglas Taylor Elementary School,9912 S Avenue H ,Chicago,60617,Lake Calumet Elementary Network,Not on Probation,Level 2,No,Weak,34,-87.5330074,41.71544589,52,EAST SIDE,10,4
+610533,Dr Jorge Prieto Math and Science,2231 N Central Ave ,Chicago,60639,Fullerton Elementary Network,Not on Probation,Not Enough Data,No,NDA,,-87.7657438,41.92131717,19,BELMONT CRAGIN,37,25
+609751,Dr  Martin Luther King  Jr  College Prep High School,4445 S Drexel Blvd ,Chicago,60653,South Side High School Network,Not on Probation,Level 1,No,NDA,,-87.60383761,41.81369471,39,KENWOOD,4,2
+610266,Dumas Technology Academy,6650 S Ellis Ave ,Chicago,60637,Burnham Park Elementary Network,Probation,Level 3,No,Very Weak,19,-87.60105531,41.77350389,42,WOODLAWN,5,3
+610188,Dunne Technology Academy,10845 S Union Ave ,Chicago,60628,Rock Island Elementary Network,Not on Probation,Level 1,No,Average,46,-87.63993763,41.69651565,49,ROSELAND,34,22
+610352,Durkin Park Elementary School,8445 S Kolin Ave ,Chicago,60652,Midway Elementary Network,Not on Probation,Level 1,No,Strong,61,-87.72991927,41.73886352,70,ASHBURN,18,8
+610254,Dvorak Technology Academy,3615 W 16th St ,Chicago,60623,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Average,46,-87.71574626,41.85885599,29,NORTH LAWNDALE,24,10
+609736,Dyett High School,555 E 51st St ,Chicago,60615,South Side High School Network,Probation,Level 3,No,Weak,27,-87.61192836,41.80204982,40,WASHINGTON PARK,4,2
+610132,Edgar Allan Poe Elementary Classical School,10538 S Langley Ave ,Chicago,60628,Lake Calumet Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.60645552,41.70261965,50,PULLMAN,9,5
+609901,Edgebrook Elementary School,6525 N Hiawatha Ave ,Chicago,60646,O'Hare Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.7618211,41.99946016,12,FOREST GLEN,41,16
+610523,Edison Park Elementary School,6220 N Olcott Ave ,Chicago,60631,O'Hare Elementary Network,Not on Probation,Level 1,No,Very Strong,95,-87.81380814,41.99422812,10,NORWOOD PARK,41,16
+609819,Edmond Burke Elementary School,5356 S King Dr ,Chicago,60615,Burnham Park Elementary Network,Probation,Level 3,No,Very Weak,1,-87.61617809,41.79679285,40,WASHINGTON PARK,3,2
+609815,Edward A Bouchet Math & Science Academy Elementary School,7355 S Jeffery Blvd ,Chicago,60649,Skyway Elementary Network,Probation,Level 3,No,Weak,33,-87.57603849,41.76086093,43,SOUTH SHORE,5,3
+610246,Edward Beasley Elementary Magnet Academic Center,5255 S State St ,Chicago,60609,Burnham Park Elementary Network,Not on Probation,Level 1,No,Average,47,-87.62565509,41.79847228,40,WASHINGTON PARK,3,2
+609881,Edward C Delano Elementary School,3937 W Wilcox St ,Chicago,60624,Garfield-Humboldt Elementary Network,Probation,Level 2,No,Weak,38,-87.72464875,41.87877166,26,WEST GARFIELD PARK,28,11
+609862,Edward Coles Elementary Language Academy,8441 S Yates Blvd ,Chicago,60617,Skyway Elementary Network,Probation,Level 2,No,Weak,22,-87.56593332,41.74142687,46,SOUTH CHICAGO,7,4
+609909,Edward Everett Elementary School,3419 S Bell Ave ,Chicago,60608,Pershing Elementary Network,Not on Probation,Level 2,No,NDA,,-87.68127322,41.83154196,59,MCKINLEY PARK,11,9
+610012,Edward Jenner Elementary Academy of the Arts,1119 N Cleveland Ave ,Chicago,60610,Fullerton Elementary Network,Probation,Level 3,No,Average,50,-87.64101894,41.90205805,8,NEAR NORTH SIDE,27,18
+609904,Edward K Ellington Elementary School,243 N Parkside Ave ,Chicago,60644,Austin-North Lawndale Elementary Network,Probation,Level 2,No,Weak,30,-87.76655157,41.885506,25,AUSTIN,29,15
+610006,Edward N Hurley Elementary School,3849 W 69th Pl ,Chicago,60629,Midway Elementary Network,Not on Probation,Level 1,No,Strong,77,-87.71950804,41.7667583,65,WEST LAWN,13,8
+609735,Edward Tilden Career Community Academy High School,4747 S Union Ave ,Chicago,60609,Southwest Side High School Network,Probation,Level 2,No,Weak,34,-87.64292985,41.80751207,61,NEW CITY,11,9
+610315,Edward White Elementary Career Academy,1136 W 122nd St ,Chicago,60643,Lake Calumet Elementary Network,Probation,Level 2,No,Weak,27,-87.65055321,41.67233661,53,WEST PULLMAN,34,5
+609708,Edwin G Foreman High School,3235 N LeClaire Ave ,Chicago,60641,North-Northwest Side High School Network,Probation,Level 3,No,Weak,26,-87.7541302,41.93981043,15,PORTAGE PARK,30,16
+609913,Elaine O Goodlow Elementary Magnet School,2040 W 62nd St ,Chicago,60636,Englewood-Gresham Elementary Network,Probation,Level 3,No,Average,44,-87.67555599,41.78125258,67,WEST ENGLEWOOD,15,7
+610233,Elihu Yale Elementary School,7025 S Princeton Ave ,Chicago,60621,Skyway Elementary Network,Probation,Level 3,No,Weak,29,-87.63209571,41.76644232,69,GREATER GRAND CROSSING,6,7
+610227,Eli Whitney Elementary School,2815 S Komensky Ave ,Chicago,60623,Pilsen-Little Village Elementary Network,Not on Probation,Level 2,Yes,Average,44,-87.7255084,41.84006197,30,SOUTH LAWNDALE,22,10
+610195,Elizabeth H Sutherland Elementary School,10015 S Leavitt St ,Chicago,60643,Rock Island Elementary Network,Not on Probation,Level 2,No,Very Strong,86,-87.67678398,41.71142687,72,BEVERLY,19,22
+610119,Elizabeth Peabody Elementary School,1444 W Augusta Blvd ,Chicago,60622,Fulton Elementary Network,Not on Probation,Level 2,No,Average,51,-87.66419014,41.89986912,24,WEST TOWN,27,13
+609852,Eliza Chappell Elementary School,2135 W Foster Ave ,Chicago,60625,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Strong,70,-87.68325438,41.975867,4,LINCOLN SQUARE,47,20
+610235,Ella Flagg Young Elementary School,1434 N Parkside Ave ,Chicago,60651,Austin-North Lawndale Elementary Network,Not on Probation,Level 2,No,Weak,31,-87.76717934,41.90678358,25,AUSTIN,29,25
+609682,Ellen H Richards Career Academy High School,5009 S Laflin St ,Chicago,60609,Southwest Side High School Network,Probation,Level 2,No,Weak,30,-87.66224052,41.80285552,61,NEW CITY,16,9
+610073,Ellen Mitchell Elementary School,2233 W Ohio St ,Chicago,60612,Fulton Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.68317867,41.89205482,24,WEST TOWN,26,13
+609712,Emil G Hirsch Metropolitan High School,7740 S Ingleside Ave ,Chicago,60619,South Side High School Network,Probation,Level 3,No,Very Weak,13,-87.60176452,41.7537612,69,GREATER GRAND CROSSING,8,6
+609973,Emiliano Zapata Elementary Academy,2728 S Kostner Ave ,Chicago,60623,Pilsen-Little Village Elementary Network,Not on Probation,Level 2,No,Strong,60,-87.73434997,41.84139181,30,SOUTH LAWNDALE,22,10
+610065,Emmett Louis Till Math and Science Academy,6543 S Champlain Ave ,Chicago,60637,Burnham Park Elementary Network,Probation,Level 3,No,Weak,31,-87.60932095,41.77544062,42,WOODLAWN,20,3
+609916,Enrico Fermi Elementary School,1415 E 70th St ,Chicago,60637,Skyway Elementary Network,Probation,Level 3,No,Weak,30,-87.59039017,41.76772772,43,SOUTH SHORE,5,3
+610203,Enrico Tonti Elementary School,5815 S Homan Ave ,Chicago,60629,Midway Elementary Network,Not on Probation,Level 2,No,NDA,,-87.70814201,41.78750499,63,GAGE PARK,14,8
+610543,Eric Solorio Academy High School,5400 S St Louis Ave ,Chicago,60632,AUSL Schools,Not on Probation,Not Enough Data,No,Strong,67,-87.71109447,41.79518118,63,GAGE PARK,14,8
+610137,Ernst Prussing Elementary School,4650 N Menard Ave ,Chicago,60630,O'Hare Elementary Network,Not on Probation,Level 2,No,Strong,71,-87.77245066,41.96561054,15,PORTAGE PARK,45,16
+609908,Esmond Elementary School,1865 W Montvale ,Chicago,60643,Rock Island Elementary Network,Probation,Level 2,No,Weak,36,-87.66916143,41.68939069,75,MORGAN PARK,19,22
+609918,Eugene Field Elementary School,7019 N Ashland Ave ,Chicago,60626,Ravenswood-Ridge Elementary Network,Not on Probation,Level 2,No,Average,42,-87.66994862,42.00966462,1,ROGERS PARK,49,24
+609874,Everett McKinley Dirksen Elementary School,8601 W Foster Ave ,Chicago,60656,O'Hare Elementary Network,Not on Probation,Level 1,No,Average,44,-87.84105162,41.97368728,76,OHARE,41,16
+610319,Evergreen Academy Middle School,3537 S Paulina St ,Chicago,60609,Pershing Elementary Network,Not on Probation,Level 2,No,Strong,60,-87.66778007,41.829365,59,MCKINLEY PARK,11,9
+610057,Fairfield Elementary Academy,6201 S Fairfield Ave ,Chicago,60629,Midway Elementary Network,Probation,Level 3,No,Weak,31,-87.69207758,41.78086789,66,CHICAGO LAWN,15,8
+610541,Federico Garcia Lorca Elementary School,3231 N Springfield Ave ,Chicago,60618,Fullerton Elementary Network,Not on Probation,Not Enough Data,No,Average,53,-87.72474354,41.94001885,21,AVONDALE,30,17
+610308,Wilma Rudolph Elementary Learning Center,110 N Paulina St ,Chicago,60612,Fulton Elementary Network,Not Applicable,Not Enough Data,No,NDA,,-87.66951363,41.88357478,28,NEAR WEST SIDE,27,13
+610120,Ferdinand Peck Elementary School,3826 W 58th St ,Chicago,60629,Midway Elementary Network,Not on Probation,Level 1,No,Average,51,-87.71922211,41.78792632,62,WEST ELSDON,13,8
+609917,Fernwood Elementary School,10041 S Union Ave ,Chicago,60628,Rock Island Elementary Network,Probation,Level 3,No,Weak,29,-87.6403774,41.71119799,73,WASHINGTON HEIGHTS,34,22
+610258,Florence B Price Elementary School,4351 S Drexel Blvd ,Chicago,60653,Burnham Park Elementary Network,Probation,Level 3,No,Weak,20,-87.6038735,41.81534262,39,KENWOOD,4,2
+610096,Florence Nightingale Elementary School,5250 S Rockwell St ,Chicago,60632,Midway Elementary Network,Not on Probation,Level 2,No,Weak,35,-87.68917624,41.79774019,63,GAGE PARK,14,9
+609924,Fort Dearborn Elementary School,9025 S Throop St ,Chicago,60620,Rock Island Elementary Network,Not on Probation,Level 2,No,Weak,34,-87.65544435,41.72966698,73,WASHINGTON HEIGHTS,21,22
+609927,Foster Park Elementary School,8530 S Wood St ,Chicago,60620,Englewood-Gresham Elementary Network,Probation,Level 3,No,Very Weak,11,-87.66813597,41.7384262,71,AUBURN GRESHAM,18,6
+610215,Francisco I Madero Middle School,3202 W 28th St ,Chicago,60623,Pilsen-Little Village Elementary Network,Probation,Level 2,Yes,Average,49,-87.70508585,41.84098398,30,SOUTH LAWNDALE,22,10
+610067,Francis M McKay Elementary School,6901 S Fairfield Ave ,Chicago,60629,Midway Elementary Network,Probation,Level 3,No,Weak,23,-87.69174944,41.76810662,66,CHICAGO LAWN,18,8
+610114,Francis Parkman Elementary School,245 W 51st St ,Chicago,60609,Pershing Elementary Network,Probation,Level 3,No,Weak,38,-87.63297392,41.80169919,37,FULLER PARK,3,9
+610020,Francis Scott Key Elementary School,517 N Parkside Ave ,Chicago,60644,Austin-North Lawndale Elementary Network,Probation,Level 2,No,Weak,37,-87.76633519,41.88983589,25,AUSTIN,29,15
+610112,Francis W Parker Elementary Community Academy,6800 S Stewart Ave ,Chicago,60621,Englewood-Gresham Elementary Network,Not on Probation,Level 2,No,Weak,30,-87.6353099,41.77079606,68,ENGLEWOOD,6,7
+609800,Frank I Bennett Elementary School,10115 S Prairie Ave ,Chicago,60628,Rock Island Elementary Network,Probation,Level 3,No,Average,46,-87.61735342,41.71041656,49,ROSELAND,9,5
+609939,Frank L Gillespie Elementary School,9301 S State St ,Chicago,60619,Rock Island Elementary Network,Probation,Level 2,No,Weak,27,-87.62368165,41.72529635,49,ROSELAND,6,6
+609926,Franklin Elementary Fine Arts Center,225 W Evergreen Ave ,Chicago,60610,Fullerton Elementary Network,Not on Probation,Level 1,No,Very Strong,87,-87.6355136,41.90657253,8,NEAR NORTH SIDE,43,18
+609958,Frank W Gunsaulus Elementary Scholastic Academy,4420 S Sacramento Ave ,Chicago,60632,Pershing Elementary Network,Not on Probation,Level 1,No,Average,46,-87.69940042,41.81299531,58,BRIGHTON PARK,14,9
+610144,Frank W Reilly Elementary School,3650 W School St ,Chicago,60618,Fullerton Elementary Network,Probation,Level 2,No,Average,48,-87.71953058,41.94112155,21,AVONDALE,35,17
+610165,Franz Peter Schubert Elementary School,2727 N Long Ave ,Chicago,60639,Fullerton Elementary Network,Probation,Level 3,No,NDA,,-87.76115305,41.93038593,19,BELMONT CRAGIN,31,25
+610503,Frazier Prospective IB Magnet Elementary School,4027 W Grenshaw St ,Chicago,60624,Austin-North Lawndale Elementary Network,Not on Probation,Level 1,No,Strong,60,-87.72631742,41.86695871,29,NORTH LAWNDALE,24,11
+609854,Frederic Chopin Elementary School,2450 W Rice St ,Chicago,60622,Fulton Elementary Network,Not on Probation,Level 1,No,Very Strong,86,-87.68890154,41.89674048,24,WEST TOWN,1,13
+610245,Frederick A Douglass Academy High School,543 N Waller Ave ,Chicago,60644,West Side High School Network,Probation,Level 3,No,Average,44,-87.76763207,41.89037849,25,AUSTIN,29,15
+609930,Frederick Funston Elementary School,2010 N Central Park ,Chicago,60647,Fullerton Elementary Network,Probation,Level 3,No,Very Weak,16,-87.71692852,41.91762127,22,LOGAN SQUARE,26,25
+610163,Frederick Stock Elementary School,7507 W Birchwood Ave ,Chicago,60631,O'Hare Elementary Network,NDA,NDA,No,NDA,,-87.81420664,42.0168639,9,EDISON PARK,41,16
+610010,Friedrich Ludwig Jahn Elementary School,3149 N Wolcott Ave ,Chicago,60657,Ravenswood-Ridge Elementary Network,Not on Probation,Level 2,No,Strong,72,-87.67577282,41.93924404,5,NORTH CENTER,32,19
+609737,Friedrich W von Steuben Metropolitan Science High School,5039 N Kimball Ave ,Chicago,60625,North-Northwest Side High School Network,Not on Probation,Level 2,No,Strong,70,-87.71334969,41.9731926,13,NORTH PARK,39,17
+609709,Gage Park High School,5630 S Rockwell St ,Chicago,60629,Southwest Side High School Network,Probation,Level 3,No,Very Weak,14,-87.68899064,41.79101352,63,GAGE PARK,16,8
+610009,Galileo Math & Science Scholastic Academy Elementary School,820 S Carpenter St ,Chicago,60607,Fulton Elementary Network,Not on Probation,Level 1,No,Strong,65,-87.65340205,41.87124634,28,NEAR WEST SIDE,25,12
+610072,Garrett A Morgan Elementary School,8407 S Kerfoot Ave ,Chicago,60620,Englewood-Gresham Elementary Network,Probation,Level 3,No,Weak,28,-87.64007166,41.74124549,71,AUBURN GRESHAM,21,6
+610293,Genevieve Melody Elementary School,412 S Keeler Ave ,Chicago,60624,Garfield-Humboldt Elementary Network,Probation,Level 3,No,Strong,61,-87.73051772,41.87474954,26,WEST GARFIELD PARK,24,11
+609779,George Armstrong International Studies Elementary School,2110 W Greenleaf Ave ,Chicago,60645,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Average,59,-87.68446868,42.01017628,2,WEST RIDGE,50,24
+610062,George B McClellan Elementary School,3527 S Wallace St ,Chicago,60609,Pershing Elementary Network,Probation,Level 2,No,Average,49,-87.64106579,41.82998962,60,BRIDGEPORT,11,9
+610196,George B Swift Elementary Specialty School,5900 N Winthrop Ave ,Chicago,60660,Ravenswood-Ridge Elementary Network,Not on Probation,Level 2,No,Strong,61,-87.65833342,41.98915734,77,EDGEWATER,48,20
+609849,George F Cassell Elementary School,11314 S Spaulding Ave ,Chicago,60655,Rock Island Elementary Network,Not on Probation,Level 2,No,Strong,76,-87.70325179,41.68733881,74,MOUNT GREENWOOD,19,22
+609761,George H Corliss High School,821 E 103rd St ,Chicago,60628,Far South Side High School Network,Probation,Level 3,No,Weak,33,-87.60307842,41.70739096,50,PULLMAN,9,5
+610305,George Leland Elementary School,5221 W Congress Pkwy ,Chicago,60644,Austin-North Lawndale Elementary Network,Probation,Level 3,No,NDA,,-87.75571809,41.87382439,25,AUSTIN,29,15
+610048,George Manierre Elementary School,1420 N Hudson Ave ,Chicago,60610,Fullerton Elementary Network,Probation,Level 3,No,Average,43,-87.63986347,41.90825367,8,NEAR NORTH SIDE,27,18
+610139,George M Pullman Elementary School,11311 S Forrestville Ave ,Chicago,60628,Lake Calumet Elementary Network,Not on Probation,Level 2,No,Average,59,-87.60939383,41.68879566,50,PULLMAN,9,5
+609795,George Rogers Clark Elementary School,1045 S Monitor Ave ,Chicago,60644,Austin-North Lawndale Elementary Network,Not on Probation,Level 1,No,Weak,39,-87.77038158,41.8678323,25,AUSTIN,29,15
+609760,George Washington Carver Military Academy High School,13100 S Doty Ave ,Chicago,60627,Far South Side High School Network,Not on Probation,Level 2,No,Average,53,-87.5906566,41.65627709,54,RIVERDALE,9,5
+609845,George Washington Carver Primary School,901 E 133rd Pl ,Chicago,60827,Lake Calumet Elementary Network,Probation,Level 3,No,Weak,25,-87.59952683,41.65367428,54,RIVERDALE,9,5
+610219,George Washington Elementary School,3611 E 114th St ,Chicago,60617,Lake Calumet Elementary Network,Not on Probation,Level 1,No,Average,58,-87.53600985,41.68810403,52,EAST SIDE,10,4
+609739,George Washington High School,3535 E 114th St ,Chicago,60617,Far South Side High School Network,Probation,Level 2,No,Average,46,-87.5375501,41.6881094,52,EAST SIDE,10,4
+609900,George W Curtis Elementary School,32 E 115th St ,Chicago,60628,AUSL Schools,Probation,Level 3,No,Weak,23,-87.62166148,41.68544575,49,ROSELAND,9,5
+609693,George Westinghouse High School,3223 W Franklin Blvd ,Chicago,60624,West Side High School Network,Not on Probation,Not Enough Data,No,Strong,74,-87.70734353,41.88994963,23,HUMBOLDT PARK,28,11
+610202,George W Tilton Elementary School,223 N Keeler Ave ,Chicago,60624,Garfield-Humboldt Elementary Network,Probation,Level 3,No,Very Weak,6,-87.73052949,41.88409703,26,WEST GARFIELD PARK,28,11
+609920,Gerald Delgado Kanoon Elementary Magnet School,2233 S Kedzie Ave ,Chicago,60623,Pilsen-Little Village Elementary Network,Probation,Level 3,No,Average,44,-87.70507547,41.85077575,30,SOUTH LAWNDALE,24,10
+610187,Graeme Stewart Elementary School,4525 N Kenmore Ave ,Chicago,60640,Ravenswood-Ridge Elementary Network,Probation,Level 2,No,Average,49,-87.65605252,41.96434608,3,UPTOWN,46,19
+610285,Granville T Woods Math & Science Academy Elementary School,6206 S Racine Ave ,Chicago,60636,Englewood-Gresham Elementary Network,Not on Probation,Level 2,No,Weak,35,-87.65468845,41.7811649,67,WEST ENGLEWOOD,16,7
+610383,Greater Lawndale High School For Social Justice,3120 S Kostner Ave ,Chicago,60623,West Side High School Network,Probation,Level 3,No,Average,43,-87.73419465,41.83601953,30,SOUTH LAWNDALE,22,10
+609857,Grover Cleveland Elementary School,3121 W Byron St ,Chicago,60618,O'Hare Elementary Network,Not on Probation,Level 1,No,Strong,64,-87.70642927,41.9520147,16,IRVING PARK,33,17
+610241,Guglielmo Marconi Elementary Community Academy,230 N Kolmar Ave ,Chicago,60624,Garfield-Humboldt Elementary Network,Probation,Level 3,No,Weak,26,-87.73936153,41.88431659,26,WEST GARFIELD PARK,28,11
+609741,Gurdon S Hubbard High School,6200 S Hamlin Ave ,Chicago,60629,Southwest Side High School Network,Not on Probation,Level 2,No,Average,42,-87.71804991,41.78050763,65,WEST LAWN,13,8
+609726,Gwendolyn Brooks College Preparatory Academy High School,250 E 111th St ,Chicago,60628,Far South Side High School Network,Not on Probation,Level 1,No,Strong,64,-87.61638144,41.69278956,49,ROSELAND,9,5
+610182,Hannah G Solomon Elementary School,6206 N Hamlin Ave ,Chicago,60659,O'Hare Elementary Network,Not on Probation,Level 1,No,Strong,78,-87.72407991,41.99397007,13,NORTH PARK,39,17
+610068,Hanson Park Elementary School,5411 W Fullerton Ave ,Chicago,60639,Fullerton Elementary Network,Not on Probation,Level 2,No,Weak,35,-87.76152094,41.92392771,19,BELMONT CRAGIN,37,25
+610124,Harold Washington Elementary School,9130 S University Ave ,Chicago,60619,Skyway Elementary Network,Not on Probation,Level 2,No,Weak,28,-87.59629327,41.72853492,47,BURNSIDE,8,4
+610192,Harriet Beecher Stowe Elementary School,3444 W Wabansia Ave ,Chicago,60647,Garfield-Humboldt Elementary Network,Probation,Level 3,No,Weak,28,-87.7132855,41.91196584,23,HUMBOLDT PARK,26,14
+610158,Harriet E Sayre Elementary Language Academy,1850 N Newland Ave ,Chicago,60707,Austin-North Lawndale Elementary Network,Not on Probation,Level 2,No,Strong,68,-87.79875667,41.9141236,25,AUSTIN,36,25
+609974,Hawthorne Elementary Scholastic Academy,3319 N Clifton Ave ,Chicago,60657,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,Yes,Very Strong,92,-87.65767253,41.94228994,6,LAKE VIEW,44,19
+609985,Helen M Hefferan Elementary School,4409 W Wilcox St ,Chicago,60624,Garfield-Humboldt Elementary Network,Not on Probation,Level 2,No,Weak,29,-87.73583687,41.87863685,26,WEST GARFIELD PARK,28,11
+610122,Helen Peirce International Studies Elementary School,1423 W Bryn Mawr Ave ,Chicago,60660,Ravenswood-Ridge Elementary Network,Not on Probation,Level 2,No,Average,58,-87.66586537,41.98342819,77,EDGEWATER,48,20
+609972,Helge A Haugan Elementary School,4540 N Hamlin Ave ,Chicago,60625,O'Hare Elementary Network,Not on Probation,Level 2,No,Average,43,-87.72316496,41.96403525,14,ALBANY PARK,39,17
+609856,Henry Clay Elementary School,13231 S Burley Ave ,Chicago,60633,Lake Calumet Elementary Network,Not on Probation,Level 2,No,Weak,38,-87.544577,41.65455937,55,HEGEWISCH,10,4
+610040,Henry D Lloyd Elementary School,2103 N Lamon Ave ,Chicago,60639,Fullerton Elementary Network,Probation,Level 3,No,NDA,,-87.74847861,41.91883022,19,BELMONT CRAGIN,31,25
+610092,Henry H Nash Elementary School,4837 W Erie St ,Chicago,60644,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Average,41,-87.74720292,41.89214724,25,AUSTIN,28,15
+610279,Henry O Tanner Elementary School,7350 S Evans Ave ,Chicago,60619,Skyway Elementary Network,Probation,Level 3,No,Weak,33,-87.60682834,41.76069854,69,GREATER GRAND CROSSING,6,3
+609861,Henry R Clissold Elementary School,2350 W 110th Pl ,Chicago,60643,Rock Island Elementary Network,Not on Probation,Level 2,No,Average,45,-87.6808619,41.69305404,75,MORGAN PARK,19,22
+610297,High School of Leadership at South Shore,7627 S Constance Ave ,Chicago,60649,South Side High School Network,Probation,Level 3,No,NDA,,-87.57960727,41.75619362,43,SOUTH SHORE,8,4
+609798,Hiram H Belding Elementary School,4257 N Tripp Ave ,Chicago,60641,O'Hare Elementary Network,Not on Probation,Level 2,No,Strong,64,-87.73398223,41.95890499,16,IRVING PARK,38,17
+609768,Hope College Preparatory High School,5515 S Lowe Ave ,Chicago,60621,Southwest Side High School Network,Probation,Level 3,No,Weak,31,-87.64134488,41.79355292,68,ENGLEWOOD,3,7
+609850,Horace Greeley Elementary School,832 W Sheridan Rd ,Chicago,60613,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Strong,65,-87.65097549,41.95283701,6,LAKE VIEW,46,19
+610052,Horace Mann Elementary School,8050 S Chappel Ave ,Chicago,60617,Skyway Elementary Network,Probation,Level 3,No,Weak,28,-87.57485274,41.74830012,46,SOUTH CHICAGO,8,4
+610058,Horatio May Elementary Community Academy,512 S Lavergne Ave ,Chicago,60644,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Average,42,-87.74931216,41.87358321,25,AUSTIN,29,15
+609713,Hyde Park Academy High School,6220 S Stony Island Ave ,Chicago,60637,South Side High School Network,Probation,Level 3,No,Weak,29,-87.58665115,41.78223539,42,WOODLAWN,5,3
+610390,Hyman G Rickover Naval Academy High School,5900 N Glenwood Ave ,Chicago,60660,North-Northwest Side High School Network,Not on Probation,Level 2,No,Strong,64,-87.66526222,41.98905063,77,EDGEWATER,48,20
+610110,Ida B Wells Preparatory Elementary Academy,244 E Pershing Rd ,Chicago,60653,Burnham Park Elementary Network,Probation,Level 3,No,Average,49,-87.61978794,41.82390751,35,DOUGLAS,3,2
+610273,Ignance Paderewski Elementary Learning Academy,2221 S Lawndale Ave ,Chicago,60623,Pilsen-Little Village Elementary Network,Probation,Level 3,No,Weak,31,-87.71726618,41.85094816,30,SOUTH LAWNDALE,22,10
+610384,Infinity Math Science and Technology High School,3120 S Kostner Ave ,Chicago,60623,West Side High School Network,Not on Probation,Level 2,No,Average,58,-87.73419465,41.83601953,30,SOUTH LAWNDALE,22,10
+610078,Inter-American Elementary Magnet School,851 W Waveland Ave ,Chicago,60613,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Strong,67,-87.65153745,41.94897646,6,LAKE VIEW,44,19
+609848,Ira F Aldridge Elementary School,630 E 131st St ,Chicago,60827,Lake Calumet Elementary Network,Probation,Level 3,No,Weak,39,-87.60649623,41.65743243,54,RIVERDALE,9,5
+610532,Irene C. Hernandez Middle School for the Advancement of Science,3510 W 55th St ,Chicago,60632,Midway Elementary Network,Not on Probation,Not Enough Data,No,Weak,34,-87.71139803,41.79350627,63,GAGE PARK,14,8
+610125,Irma C Ruiz Elementary School,2410 S Leavitt St ,Chicago,60608,Pilsen-Little Village Elementary Network,Not on Probation,Level 2,Yes,Average,57,-87.68078114,41.84809742,31,LOWER WEST SIDE,25,10
+610276,Irvin C Mollison Elementary School,4415 S Dr Martin L King Jr Dr ,Chicago,60653,Burnham Park Elementary Network,Probation,Level 3,No,Average,44,-87.61658079,41.81434006,38,GRAND BOULEVARD,3,2
+610103,Isabelle C O'Keeffe Elementary School,6940 S Merrill Ave ,Chicago,60649,Skyway Elementary Network,Probation,Level 3,No,Very Weak,17,-87.57284299,41.76861557,43,SOUTH SHORE,5,3
+610256,Jackie Robinson Elementary School,4225 S Lake Park Ave ,Chicago,60653,Burnham Park Elementary Network,Probation,Level 3,No,NDA,,-87.59903174,41.81735839,36,OAKLAND,4,2
+609797,Jacob Beidler Elementary School,3151 W Walnut St ,Chicago,60612,Garfield-Humboldt Elementary Network,Not on Probation,Level 2,No,Strong,63,-87.70581859,41.88529401,27,EAST GARFIELD PARK,27,13
+609766,Jacqueline B Vaughn Occupational High School,4355 N Linder Ave ,Chicago,60641,North-Northwest Side High School Network,Not Applicable,Not Enough Data,No,Average,57,-87.76462602,41.96035141,15,PORTAGE PARK,38,16
+609912,James B Farnsworth Elementary School,5414 N Linder Ave ,Chicago,60630,O'Hare Elementary Network,Not on Probation,Level 2,No,Average,55,-87.76610809,41.9798092,11,JEFFERSON PARK,45,16
+610070,James B McPherson Elementary School,4728 N Wolcott Ave ,Chicago,60640,Ravenswood-Ridge Elementary Network,Not on Probation,Level 2,No,Strong,71,-87.67632505,41.96784758,4,LINCOLN SQUARE,47,19
+610066,James E McDade Elementary Classical School,8801 S Indiana Ave ,Chicago,60619,Skyway Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.61917677,41.73451387,44,CHATHAM,6,6
+609803,James G Blaine Elementary School,1420 W Grace St ,Chicago,60613,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.66495825,41.95080812,6,LAKE VIEW,44,19
+609983,James Hedges Elementary School,4747 S Winchester Ave ,Chicago,60609,Pershing Elementary Network,Not on Probation,Level 2,No,Weak,22,-87.67329121,41.80713406,61,NEW CITY,20,9
+610047,James Madison Elementary School,7433 S Dorchester Ave ,Chicago,60619,Skyway Elementary Network,Probation,Level 2,No,Weak,39,-87.59067582,41.75955224,43,SOUTH SHORE,5,3
+610074,James Monroe Elementary School,3651 W Schubert Ave ,Chicago,60647,Fullerton Elementary Network,Probation,Level 2,No,Average,45,-87.71921246,41.92996135,22,LOGAN SQUARE,35,25
+610200,James N Thorp Elementary School,8914 S Buffalo Ave ,Chicago,60617,Skyway Elementary Network,Probation,Level 3,No,Weak,32,-87.54451462,41.73331035,46,SOUTH CHICAGO,10,4
+610107,James Otis Elementary School,525 N Armour St ,Chicago,60622,Fulton Elementary Network,Probation,Level 1,No,Very Strong,83,-87.66538928,41.89179703,24,WEST TOWN,27,13
+609891,James R Doolittle Jr Elementary School,535 E 35th St ,Chicago,60616,Burnham Park Elementary Network,Probation,Level 3,No,Weak,30,-87.61291629,41.8310921,35,DOUGLAS,4,2
+610044,James Russell Lowell Elementary School,3320 W Hirsch St ,Chicago,60651,Garfield-Humboldt Elementary Network,Probation,Level 2,No,Weak,39,-87.71023279,41.90654684,23,HUMBOLDT PARK,26,14
+610174,James Shields Elementary School,4250 S Rockwell St ,Chicago,60632,Pershing Elementary Network,Not on Probation,Level 2,No,Weak,38,-87.68968453,41.81593528,58,BRIGHTON PARK,12,9
+610213,James Wadsworth Elementary School,6420 S University Ave ,Chicago,60637,Burnham Park Elementary Network,Probation,Level 3,No,NDA,,-87.59815597,41.77812652,42,WOODLAWN,20,3
+610217,James Ward Elementary School,2701 S Shields Ave ,Chicago,60616,Pershing Elementary Network,Not on Probation,Level 1,No,Average,49,-87.63531815,41.84395162,34,ARMOUR SQUARE,11,9
+610274,James Weldon Johnson Elementary School,1420 S Albany Ave ,Chicago,60623,AUSL Schools,Probation,Level 2,No,Strong,67,-87.7031756,41.86183983,29,NORTH LAWNDALE,24,10
+609772,Jane Addams Elementary School,10810 S Avenue H ,Chicago,60617,Lake Calumet Elementary Network,Not on Probation,Level 2,No,Average,56,-87.53301251,41.69871497,52,EAST SIDE,10,4
+610093,Jane A Neil Elementary School,8555 S Michigan Ave ,Chicago,60619,Skyway Elementary Network,Probation,Level 3,No,Average,42,-87.62089767,41.7384386,44,CHATHAM,6,6
+609796,Jean Baptiste Beaubien Elementary School,5025 N Laramie Ave ,Chicago,60630,O'Hare Elementary Network,Not on Probation,Level 1,No,Strong,63,-87.75752776,41.97237914,11,JEFFERSON PARK,45,16
+610031,Jean D Lafayette Elementary School,2714 W Augusta Blvd ,Chicago,60622,Fulton Elementary Network,Probation,Level 3,No,Average,44,-87.69494543,41.89940402,24,WEST TOWN,1,13
+610271,Jensen Elementary Scholastic Academy,3030 W Harrison St ,Chicago,60612,Garfield-Humboldt Elementary Network,Probation,Level 2,No,Weak,35,-87.70224149,41.87384239,27,EAST GARFIELD PARK,28,11
+609932,Jesse Owens Elementary Community Academy,12450 S State St ,Chicago,60628,Lake Calumet Elementary Network,Not on Probation,Level 2,No,NDA,,-87.62242272,41.66737294,53,WEST PULLMAN,9,5
+610173,Jesse Sherwood Elementary School,245 W 57th St ,Chicago,60621,Englewood-Gresham Elementary Network,Probation,Level 2,No,Weak,38,-87.6322812,41.7907728,68,ENGLEWOOD,20,7
+609942,Johann W von Goethe Elementary School,2236 N Rockwell St ,Chicago,60647,Fullerton Elementary Network,Not on Probation,Level 2,No,Strong,75,-87.69293637,41.9228282,22,LOGAN SQUARE,1,14
+610216,John A Walsh Elementary School,2015 S Peoria St ,Chicago,60608,Pilsen-Little Village Elementary Network,Not on Probation,Level 2,Yes,Strong,60,-87.64804964,41.85484214,31,LOWER WEST SIDE,25,12
+609789,John Barry Elementary School,2828 N Kilbourn Ave ,Chicago,60641,Fullerton Elementary Network,Not on Probation,Level 2,No,Weak,35,-87.73942514,41.93251118,20,HERMOSA,31,25
+609894,John B Drake Elementary School,2722 S King Dr ,Chicago,60616,Burnham Park Elementary Network,Probation,Level 3,No,Average,59,-87.61776768,41.84379445,35,DOUGLAS,4,1
+610089,John B Murphy Elementary School,3539 W Grace St ,Chicago,60618,O'Hare Elementary Network,Not on Probation,Level 1,No,Very Strong,80,-87.71682949,41.95005034,16,IRVING PARK,35,17
+610243,John Calhoun North Elementary School,2833 W Adams St ,Chicago,60612,Garfield-Humboldt Elementary Network,Not on Probation,Level 1,No,Average,52,-87.69755292,41.87822115,27,EAST GARFIELD PARK,2,11
+609829,John C Burroughs Elementary School,3542 S Washtenaw Ave ,Chicago,60632,Pershing Elementary Network,Not on Probation,Level 2,Yes,Average,50,-87.69249318,41.8288631,58,BRIGHTON PARK,12,9
+609866,John C Coonley Elementary School,4046 N Leavitt St ,Chicago,60618,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Very Strong,87,-87.68380195,41.95554905,5,NORTH CENTER,47,19
+609893,John C Dore Elementary School,6108 S Natoma Ave ,Chicago,60638,Midway Elementary Network,Not on Probation,Level 1,No,Strong,74,-87.78764009,41.78092716,64,CLEARING,23,8
+609959,John Charles Haines Elementary School,247 W 23rd Pl ,Chicago,60616,Pershing Elementary Network,Not on Probation,Level 1,No,Weak,32,-87.63378596,41.84993116,34,ARMOUR SQUARE,25,9
+610176,John D Shoop Math-Science Technical Academy Elementary School,11140 S Bishop St ,Chicago,60643,Rock Island Elementary Network,Probation,Level 3,No,Weak,32,-87.65870614,41.69093337,75,MORGAN PARK,34,22
+609898,John F Eberhart Elementary School,3400 W 65th Pl ,Chicago,60629,Midway Elementary Network,Probation,Level 3,No,Average,42,-87.70800189,41.7744471,66,CHICAGO LAWN,15,8
+609919,John Fiske Elementary School,6145 S Ingleside Ave ,Chicago,60637,Burnham Park Elementary Network,Probation,Level 3,No,Very Weak,13,-87.60259685,41.78290934,42,WOODLAWN,20,3
+609718,John F Kennedy High School,6325 W 56th St ,Chicago,60638,Southwest Side High School Network,Probation,Level 3,No,Average,53,-87.78037224,41.79042796,56,GARFIELD RIDGE,23,8
+610263,John Foster Dulles Elementary School,6311 S Calumet Ave ,Chicago,60637,AUSL Schools,Probation,Level 2,No,Average,42,-87.61717494,41.779797,69,GREATER GRAND CROSSING,20,3
+610228,John Greenleaf Whittier Elementary School,1900 W 23rd St ,Chicago,60608,Pilsen-Little Village Elementary Network,Probation,Level 3,No,Strong,65,-87.67342126,41.85050786,31,LOWER WEST SIDE,25,10
+609694,John Hancock College Preparatory High School,4034 W 56th St ,Chicago,60629,Southwest Side High School Network,Probation,Level 3,No,Average,51,-87.72449161,41.79149114,62,WEST ELSDON,13,8
+609971,John Harvard Elementary School of Excellence,7525 S Harvard ,Chicago,60620,AUSL Schools,Probation,Level 2,No,Average,51,-87.63270008,41.75733472,69,GREATER GRAND CROSSING,17,6
+609975,John Hay Elementary Community Academy,1018 N Laramie Ave ,Chicago,60651,Austin-North Lawndale Elementary Network,Probation,Level 2,No,Average,44,-87.75585034,41.89918473,25,AUSTIN,37,15
+609964,John H Hamline Elementary School,4747 S Bishop St ,Chicago,60609,Pershing Elementary Network,Not on Probation,Level 2,No,Weak,33,-87.66113856,41.80726347,61,NEW CITY,20,9
+610026,John H Kinzie Elementary School,5625 S Mobile Ave ,Chicago,60638,Midway Elementary Network,Not on Probation,Level 1,No,Strong,64,-87.7791043,41.78970398,56,GARFIELD RIDGE,23,8
+610207,John H Vanderpoel Elementary Magnet School,9510 S Prospect Ave ,Chicago,60643,Rock Island Elementary Network,Not on Probation,Level 2,No,Strong,74,-87.66558526,41.72078152,72,BEVERLY,19,22
+609782,John J Audubon Elementary School,3500 N Hoyne Ave ,Chicago,60618,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Very Strong,95,-87.68107885,41.94509808,5,NORTH CENTER,47,19
+610126,John J Pershing Elementary Humanities Magnet,3113 S Rhodes Ave ,Chicago,60616,Burnham Park Elementary Network,Not on Probation,Level 1,No,NDA,,-87.61334083,41.83803465,35,DOUGLAS,4,2
+610054,John L Marsh Elementary School,9822 S Exchange Ave ,Chicago,60617,Lake Calumet Elementary Network,Probation,Level 2,No,Strong,72,-87.55251993,41.71657908,51,SOUTH DEERING,10,4
+609723,John Marshall Metropolitan High School,3250 W Adams St ,Chicago,60624,West Side High School Network,Probation,Level 3,No,Average,51,-87.70801612,41.87847194,27,EAST GARFIELD PARK,28,11
+609710,John M Harlan Community Academy High School,9652 S Michigan Ave ,Chicago,60628,Far South Side High School Network,Probation,Level 3,No,NDA,,-87.62066069,41.71840075,49,ROSELAND,6,5
+609954,John Milton Gregory Elementary School,3715 W Polk St ,Chicago,60624,Garfield-Humboldt Elementary Network,Not on Probation,Level 1,No,Average,44,-87.71867323,41.87071468,27,EAST GARFIELD PARK,24,11
+610180,John M Smyth Elementary School,1059 W 13th St ,Chicago,60608,Fulton Elementary Network,Probation,Level 3,No,Weak,37,-87.65347031,41.86532347,28,NEAR WEST SIDE,2,12
+610199,Johnnie Colemon Elementary Academy,1441 W 119th St ,Chicago,60643,Lake Calumet Elementary Network,Not on Probation,Level 2,No,Strong,60,-87.65812011,41.67747786,53,WEST PULLMAN,34,5
+610111,John Palmer Elementary School,5051 N Kenneth Ave ,Chicago,60630,O'Hare Elementary Network,Not on Probation,Level 2,No,Strong,75,-87.73917547,41.97326374,14,ALBANY PARK,39,17
+609775,John P Altgeld Elementary School,1340 W 71st St ,Chicago,60636,Englewood-Gresham Elementary Network,Probation,Level 3,No,Average,48,-87.6582125,41.76510322,67,WEST ENGLEWOOD,17,7
+610184,John Spry Elementary Community School,2400 S Marshall Blvd ,Chicago,60623,Pilsen-Little Village Elementary Network,Not on Probation,Level 2,No,Strong,66,-87.69912725,41.84815451,30,SOUTH LAWNDALE,12,10
+610269,John T McCutcheon Elementary School,4865 N Sheridan Rd ,Chicago,60640,Ravenswood-Ridge Elementary Network,Not on Probation,Level 2,No,Average,56,-87.65472193,41.97095968,3,UPTOWN,48,20
+610130,John T Pirie Fine Arts & Academic Center Elementary School,650 E 85th St ,Chicago,60619,Skyway Elementary Network,Not on Probation,Level 2,No,Weak,26,-87.60792289,41.74036711,44,CHATHAM,6,6
+609864,John W Cook Elementary School,8150 S Bishop St ,Chicago,60620,Englewood-Gresham Elementary Network,Probation,Level 2,No,NDA,,-87.6598119,41.74526284,71,AUBURN GRESHAM,21,6
+609937,John W Garvy Elementary School,5225 N Oak Park Ave ,Chicago,60656,O'Hare Elementary Network,Not on Probation,Level 1,No,Strong,60,-87.79619832,41.97635262,10,NORWOOD PARK,41,16
+610225,John Whistler Elementary School,11533 S Ada St ,Chicago,60643,Lake Calumet Elementary Network,Probation,Level 3,No,Average,45,-87.65534733,41.68391137,53,WEST PULLMAN,34,5
+609828,Jonathan Burr Elementary School,1621 W Wabansia Ave ,Chicago,60622,Fulton Elementary Network,Not on Probation,Level 1,No,Strong,71,-87.66864691,41.91233061,24,WEST TOWN,1,14
+610159,Jonathan Y Scammon Elementary School,4201 W Henderson St ,Chicago,60641,O'Hare Elementary Network,Not on Probation,Level 2,No,Average,44,-87.73222901,41.94164944,16,IRVING PARK,30,17
+609865,Jordan Elementary Community School,7414 N Wolcott Ave ,Chicago,60626,Ravenswood-Ridge Elementary Network,Not on Probation,Level 2,No,Strong,61,-87.67779928,42.01709536,1,ROGERS PARK,49,24
+610313,Jose De Diego Elementary Community Academy,1313 N Claremont Ave ,Chicago,60622,Fulton Elementary Network,Probation,Level 3,Yes,Average,57,-87.68572005,41.90531549,24,WEST TOWN,1,14
+609950,Josefa Ortiz De Dominguez Elementary School,3000 S Lawndale Ave ,Chicago,60623,Pilsen-Little Village Elementary Network,NDA,NDA,No,NDA,,-87.71722614,41.83875333,30,SOUTH LAWNDALE,22,10
+610242,Joseph Brennemann Elementary School,4251 N Clarendon Ave ,Chicago,60613,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Average,50,-87.64971223,41.95997841,3,UPTOWN,46,19
+609938,Joseph E Gary Elementary School,3740 W 31st St ,Chicago,60623,Pilsen-Little Village Elementary Network,Not on Probation,Level 2,No,Weak,32,-87.71870452,41.83709246,30,SOUTH LAWNDALE,22,10
+610041,Josephine C Locke Elementary School,2828 N Oak Park Ave ,Chicago,60634,Fullerton Elementary Network,Not on Probation,Level 1,No,Average,57,-87.79564085,41.93176301,18,MONTCLARE,36,25
+610015,Joseph Jungman Elementary School,1746 S Miller St ,Chicago,60608,Pilsen-Little Village Elementary Network,Probation,Level 2,No,Weak,36,-87.65233933,41.85810053,31,LOWER WEST SIDE,25,12
+609925,Joseph Kellman Corporate Community Elementary School,751 S Sacramento Blvd ,Chicago,60612,Garfield-Humboldt Elementary Network,Not on Probation,Level 2,No,Average,58,-87.70078311,41.87119309,27,EAST GARFIELD PARK,2,11
+610043,Joseph Lovett Elementary School,6333 W Bloomingdale Ave ,Chicago,60639,Austin-North Lawndale Elementary Network,Probation,Level 2,No,Average,43,-87.78393402,41.91269042,25,AUSTIN,29,25
+610189,Joseph Stockton Elementary School,4420 N Beacon St ,Chicago,60640,Ravenswood-Ridge Elementary Network,Not on Probation,Level 2,No,Weak,37,-87.66388983,41.9623189,3,UPTOWN,46,19
+610218,Joseph Warren Elementary School,9239 S Jeffery Ave ,Chicago,60617,Skyway Elementary Network,Not on Probation,Level 2,No,Weak,33,-87.5753162,41.72677474,48,CALUMET HEIGHTS,8,4
+610019,Joshua D Kershaw Elementary School,6450 S Lowe Ave ,Chicago,60621,Englewood-Gresham Elementary Network,Not on Probation,Level 2,No,Strong,62,-87.64092929,41.77647883,68,ENGLEWOOD,20,7
+610129,Josiah Pickard Elementary School,2301 W 21st Pl ,Chicago,60608,Pilsen-Little Village Elementary Network,Probation,Level 2,No,Average,50,-87.6833397,41.85287295,31,LOWER WEST SIDE,25,12
+610022,Joyce Kilmer Elementary School,6700 N Greenview Ave ,Chicago,60626,Ravenswood-Ridge Elementary Network,Not on Probation,Level 2,No,NDA,,-87.66826026,42.00367622,1,ROGERS PARK,40,24
+610253,Julia C Lathrop Elementary School,1440 S Christiana Ave ,Chicago,60623,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Strong,67,-87.7093241,41.86119482,29,NORTH LAWNDALE,24,10
+610000,Julia Ward Howe Elementary School of Excellence,720 N Lorel Ave ,Chicago,60644,AUSL Schools,Probation,Level 1,No,Strong,67,-87.75943557,41.89362521,25,AUSTIN,37,15
+610280,Kate S Buckingham Special Education Center,9207 S Phillips Ave ,Chicago,60617,Skyway Elementary Network,Not Applicable,Level 3,No,Weak,31,-87.56439326,41.72782129,48,CALUMET HEIGHTS,7,4
+610016,Kate S Kellogg Elementary School,9241 S Leavitt St ,Chicago,60620,Rock Island Elementary Network,Not on Probation,Level 2,No,Strong,76,-87.67719555,41.72525315,72,BEVERLY,19,22
+609716,Kelvyn Park High School,4343 W Wrightwood Ave ,Chicago,60639,North-Northwest Side High School Network,Probation,Level 3,No,Weak,32,-87.73600171,41.92789092,20,HERMOSA,31,25
+609746,Kenwood Academy High School,5015 S Blackstone Ave ,Chicago,60615,South Side High School Network,Not on Probation,Level 2,No,Strong,63,-87.59038395,41.80375479,39,KENWOOD,4,2
+609719,Lake View High School,4015 N Ashland Ave ,Chicago,60613,North-Northwest Side High School Network,Not on Probation,Level 2,No,Strong,64,-87.66891643,41.95478361,6,LAKE VIEW,47,19
+610368,Langston Hughes Elementary School,240 W 104th St ,Chicago,60628,Rock Island Elementary Network,Probation,Level 3,No,Weak,28,-87.62985093,41.70536999,49,ROSELAND,34,5
+610033,LaSalle Elementary Language Academy,1734 N Orleans St ,Chicago,60614,Fullerton Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.63760107,41.9138823,7,LINCOLN PARK,43,18
+610520,LaSalle II Magnet Elementary School,1148 N Honore St ,Chicago,60622,Fulton Elementary Network,Not on Probation,Level 1,No,Strong,66,-87.67373263,41.90290876,24,WEST TOWN,1,13
+609910,Laughlin Falconer Elementary School,3020 N Lamon Ave ,Chicago,60641,Fullerton Elementary Network,Not on Probation,Level 2,No,Average,54,-87.74936705,41.93577597,19,BELMONT CRAGIN,31,25
+610133,Laura S Ward Elementary School,410 N Monticello Ave ,Chicago,60624,Garfield-Humboldt Elementary Network,Probation,Level 3,No,NDA,,-87.71752405,41.88845002,23,HUMBOLDT PARK,27,11
+610034,Lawndale Elementary Community Academy,3500 W Douglas Blvd ,Chicago,60623,Austin-North Lawndale Elementary Network,Probation,Level 3,No,NDA,,-87.71300615,41.86298683,29,NORTH LAWNDALE,24,10
+610024,Lazaro Cardenas Elementary School,2345 S Millard Ave ,Chicago,60623,Pilsen-Little Village Elementary Network,Not on Probation,Level 1,No,NDA,,-87.71598119,41.8485071,30,SOUTH LAWNDALE,22,10
+609907,Leif Ericson Elementary Scholastic Academy,3600 W 5th Ave ,Chicago,60624,Garfield-Humboldt Elementary Network,Probation,Level 2,No,Weak,33,-87.71584573,41.87576191,27,EAST GARFIELD PARK,28,11
+610298,Lenart Elementary Regional Gifted Center,8101 S LaSalle St ,Chicago,60620,Skyway Elementary Network,Not on Probation,Level 1,No,Strong,79,-87.62800231,41.74715024,44,CHATHAM,21,6
+610036,Leslie Lewis Elementary School,1431 N Leamington Ave ,Chicago,60651,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Weak,21,-87.75451319,41.90682528,25,AUSTIN,37,25
+609738,Lincoln Park High School,2001 N Orchard St ,Chicago,60614,North-Northwest Side High School Network,Not on Probation,Level 2,No,Strong,65,-87.64597389,41.91830362,7,LINCOLN PARK,43,18
+609807,Lionel Hampton Fine & Performing Arts Elementary School,3434 W 77th St ,Chicago,60652,Midway Elementary Network,Probation,Level 2,No,Average,42,-87.70875287,41.75348432,70,ASHBURN,18,8
+609834,Little Village Elementary School,2620 S Lawndale Ave ,Chicago,60623,Pilsen-Little Village Elementary Network,Not on Probation,Level 1,No,Average,45,-87.71735516,41.84368588,30,SOUTH LAWNDALE,22,10
+610325,Logandale Middle School,3212 W George St ,Chicago,60618,Fullerton Elementary Network,Not on Probation,Level 2,No,Average,56,-87.70804359,41.9339976,21,AVONDALE,35,14
+609809,Lorenz Brentano Math & Science Academy Elementary School,2723 N Fairfield Ave ,Chicago,60647,Fullerton Elementary Network,Not on Probation,Level 2,No,Average,57,-87.69625758,41.93097047,22,LOGAN SQUARE,35,14
+609773,Louis A Agassiz Elementary School,2851 N Seminary Ave ,Chicago,60657,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Average,53,-87.65619167,41.93412004,6,LAKE VIEW,44,19
+609774,Louisa May Alcott Elementary School,2625 N Orchard St ,Chicago,60614,Fullerton Elementary Network,Not on Probation,Level 1,No,NDA,,-87.64633949,41.92984626,7,LINCOLN PARK,43,19
+610156,Louis Armstrong Math & Science Elementary School,5345 W Congress Pkwy ,Chicago,60644,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Average,42,-87.75920297,41.87378243,25,AUSTIN,29,15
+610094,Louis Nettelhorst Elementary School,3252 N Broadway St ,Chicago,60657,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Average,58,-87.64459776,41.94162999,6,LAKE VIEW,44,19
+610117,Louis Pasteur Elementary School,5825 S Kostner Ave ,Chicago,60629,Midway Elementary Network,Not on Probation,Level 2,No,Average,50,-87.73262962,41.78688968,62,WEST ELSDON,13,8
+610237,Ludwig Van Beethoven Elementary School,25 W 47th St ,Chicago,60609,Burnham Park Elementary Network,Probation,Level 3,No,Average,40,-87.62711401,41.80910779,38,GRAND BOULEVARD,3,2
+610108,Luke O'Toole Elementary School,6550 S Seeley Ave ,Chicago,60636,Englewood-Gresham Elementary Network,Probation,Level 3,No,Very Weak,5,-87.67513395,41.77418952,67,WEST ENGLEWOOD,15,7
+609818,Luther Burbank Elementary School,2035 N Mobile Ave ,Chicago,60639,Fullerton Elementary Network,Not on Probation,Level 2,No,Weak,37,-87.78266267,41.91759334,19,BELMONT CRAGIN,29,25
+609817,Lyman A Budlong Elementary School,2701 W Foster Ave ,Chicago,60625,Ravenswood-Ridge Elementary Network,Not on Probation,Level 2,No,Average,59,-87.69660443,41.97572652,4,LINCOLN SQUARE,40,20
+610205,Lyman Trumbull Elementary School,5200 N Ashland Ave ,Chicago,60640,Ravenswood-Ridge Elementary Network,Probation,Level 3,No,Average,56,-87.6697616,41.97621644,77,EDGEWATER,40,20
+610369,Mahalia Jackson Elementary School,917 W 88th St ,Chicago,60620,Englewood-Gresham Elementary Network,Probation,Level 3,No,Weak,38,-87.64675679,41.73409818,71,AUBURN GRESHAM,21,22
+610197,Mancel Talcott Elementary School,1840 W Ohio St ,Chicago,60622,Fulton Elementary Network,Not on Probation,Level 1,No,Strong,63,-87.67370499,41.89243235,24,WEST TOWN,1,13
+609722,Manley Career Academy High School,2935 W Polk St ,Chicago,60612,West Side High School Network,Probation,Level 3,No,Average,41,-87.69988652,41.87091163,27,EAST GARFIELD PARK,28,11
+609872,Manuel Perez Elementary School,1241 W 19th St ,Chicago,60608,Pilsen-Little Village Elementary Network,Not on Probation,Level 1,Yes,Average,45,-87.6579887,41.85600113,31,LOWER WEST SIDE,25,12
+610128,Marcus Moziah Garvey Elementary School,10309 S Morgan St ,Chicago,60643,Rock Island Elementary Network,Not on Probation,Level 2,No,Average,50,-87.64754034,41.7065956,73,WASHINGTON HEIGHTS,34,22
+610544,Mariano Azuela Elementary School,4707 W Marquette Rd ,Chicago,60629,Midway Elementary Network,Not on Probation,Not Enough Data,No,Average,54,-87.73992325,41.77105158,65,WEST LAWN,13,8
+610017,Maria Saucedo Elementary Scholastic Academy,2850 W 24th Blvd ,Chicago,60623,Pilsen-Little Village Elementary Network,Not on Probation,Level 1,No,Strong,60,-87.69728712,41.84796859,30,SOUTH LAWNDALE,12,10
+609756,Marie Sklodowska Curie Metropolitan High School,4959 S Archer Ave ,Chicago,60632,Southwest Side High School Network,Probation,Level 3,No,Average,43,-87.72200673,41.80304615,57,ARCHER HEIGHTS,14,8
+610502,Marine Military Math and Science Academy ,145 S Campbell Ave ,Chicago,60612,West Side High School Network,Not on Probation,Level 2,No,Average,41,-87.68865058,41.87885054,28,NEAR WEST SIDE,2,11
+610081,Mark Sheridan Elementary Math & Science Academy,533 W 27th St ,Chicago,60616,Pershing Elementary Network,Not on Probation,Level 1,No,Strong,74,-87.64131399,41.84437293,60,BRIDGEPORT,11,9
+610177,Mark Skinner Elementary School,1260 W Adams St ,Chicago,60607,Fulton Elementary Network,Not on Probation,Level 1,No,Very Strong,87,-87.65937102,41.87913069,28,NEAR WEST SIDE,27,12
+610206,Mark Twain Elementary School,5134 S Lotus Ave ,Chicago,60638,Midway Elementary Network,Not on Probation,Level 1,No,Strong,67,-87.75896524,41.79905206,56,GARFIELD RIDGE,23,8
+610053,Marquette Elementary School,6550 S Richmond St ,Chicago,60629,Midway Elementary Network,Probation,Level 3,No,Very Weak,15,-87.6970673,41.77390682,66,CHICAGO LAWN,15,8
+610152,Martha Ruggles Elementary School,7831 S Prairie Ave ,Chicago,60619,Skyway Elementary Network,Probation,Level 2,No,Average,43,-87.61802983,41.75194729,69,GREATER GRAND CROSSING,6,6
+610154,Martin A Ryerson Elementary School,646 N Lawndale Ave ,Chicago,60624,Garfield-Humboldt Elementary Network,Not on Probation,Level 1,No,Average,40,-87.71883334,41.89321142,23,HUMBOLDT PARK,27,11
+610539,Marvin Camras Elementary School,3000 N Mango Ave ,Chicago,60634,Fullerton Elementary Network,Not on Probation,Not Enough Data,No,Average,54,-87.77016525,41.93496641,19,BELMONT CRAGIN,30,25
+610355,Mary E Courtenay Elementary Language Arts Center,1726 W Berteau Ave ,Chicago,60613,Ravenswood-Ridge Elementary Network,Not on Probation,Level 2,No,Very Strong,99,-87.6718933,41.9580169,6,LAKE VIEW,47,19
+610312,Mary E McDowell Elementary School,1419 E 89th St ,Chicago,60619,Skyway Elementary Network,Not on Probation,Level 2,No,NDA,,-87.58960096,41.7331047,48,CALUMET HEIGHTS,8,4
+610127,Mary Gage Peterson Elementary School,5510 N Christiana Ave ,Chicago,60625,O'Hare Elementary Network,Not on Probation,Level 1,No,Strong,62,-87.71261988,41.98158041,13,NORTH PARK,40,17
+610046,Mary Lyon Elementary School,2941 N McVicker Ave ,Chicago,60634,Fullerton Elementary Network,Not on Probation,Level 2,No,Average,55,-87.77713699,41.93417898,19,BELMONT CRAGIN,29,25
+609888,Mary Mapes Dodge Elementary Renaissance Academy,2651 W Washington Blvd ,Chicago,60612,AUSL Schools,Not on Probation,Level 2,No,Average,57,-87.6930162,41.88282068,27,EAST GARFIELD PARK,2,13
+610365,Mary McLeod Bethune Elementary School,3030 W Arthington St ,Chicago,60612,AUSL Schools,Probation,Level 3,No,Average,53,-87.70216173,41.87019518,27,EAST GARFIELD PARK,28,11
+610535,Mason High School,4217 W 18th St ,Chicago,60623,West Side High School Network,Not on Probation,Not Enough Data,No,Average,50,-87.73049117,41.85685194,29,NORTH LAWNDALE,24,10
+610240,Matthew A Henson Elementary School,1326 S Avers Ave ,Chicago,60623,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Weak,37,-87.72158636,41.86356038,29,NORTH LAWNDALE,24,10
+609935,Matthew Gallistel Elementary Language Academy,10347 S Ewing Ave ,Chicago,60617,Lake Calumet Elementary Network,Not on Probation,Level 2,No,Average,49,-87.53513861,41.70682232,52,EAST SIDE,10,4
+610362,Medgar Evers Elementary School,9811 S Lowe Ave ,Chicago,60628,Rock Island Elementary Network,Not on Probation,Level 1,No,Weak,27,-87.63926881,41.7156643,73,WASHINGTON HEIGHTS,21,22
+609928,Melville W Fuller Elementary School,4214 S Saint Lawrence Ave ,Chicago,60653,Burnham Park Elementary Network,Probation,Level 3,No,Weak,22,-87.61182077,41.8180061,38,GRAND BOULEVARD,4,2
+610055,Michael Faraday Elementary School,3250 W Monroe St ,Chicago,60624,Garfield-Humboldt Elementary Network,Not on Probation,Level 2,No,Weak,35,-87.70808199,41.87974117,27,EAST GARFIELD PARK,28,11
+609832,Michael M Byrne Elementary School,5329 S Oak Park Ave ,Chicago,60638,Midway Elementary Network,Probation,Level 3,No,Strong,63,-87.79150778,41.79503029,56,GARFIELD RIDGE,23,8
+610244,Michele Clark Academic Prep Magnet High School,5101 W Harrison St ,Chicago,60644,West Side High School Network,Probation,Level 3,No,NDA,,-87.75335467,41.87285714,25,AUSTIN,24,15
+610208,Mildred I Lavizzo Elementary School,138 W 109th St ,Chicago,60628,Rock Island Elementary Network,Probation,Level 3,No,Very Weak,15,-87.62713349,41.69628998,49,ROSELAND,34,5
+609830,Milton Brunson Math & Science Specialty Elementary School ,932 N Central Ave ,Chicago,60651,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Weak,30,-87.76564297,41.89767761,25,AUSTIN,29,15
+610011,Minnie Mars Jamieson Elementary School,5650 N Mozart St ,Chicago,60659,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Strong,64,-87.70056525,41.98461372,2,WEST RIDGE,40,20
+610018,Miriam G Canter Middle School,4959 S Blackstone Ave ,Chicago,60615,Burnham Park Elementary Network,Probation,Level 3,No,Average,57,-87.59039494,41.80434474,39,KENWOOD,4,2
+609725,Morgan Park High School,1744 W Pryor Ave ,Chicago,60643,Far South Side High School Network,Not on Probation,Level 2,No,Average,40,-87.66564309,41.69206041,75,MORGAN PARK,19,22
+610257,Morton School of Excellence,431 N Troy St ,Chicago,60612,AUSL Schools,Probation,Level 1,No,Average,53,-87.7049885,41.88928666,23,HUMBOLDT PARK,27,13
+610075,Moses Montefiore Special Elementary School,1310 S Ashland Ave ,Chicago,60608,Fulton Elementary Network,Not Applicable,Level 3,No,Weak,28,-87.66648084,41.86471954,28,NEAR WEST SIDE,2,12
+610082,Mount Greenwood Elementary School,10841 S Homan Ave ,Chicago,60655,Rock Island Elementary Network,Not on Probation,Level 1,No,Very Strong,84,-87.70577383,41.69574845,74,MOUNT GREENWOOD,19,22
+610086,Mount Vernon Elementary School,10540 S Morgan St ,Chicago,60643,Rock Island Elementary Network,Not on Probation,Level 2,No,Weak,31,-87.64768959,41.70196704,73,WASHINGTON HEIGHTS,34,22
+610385,Multicultural Academy of Scholarship,3120 S Kostner Ave ,Chicago,60623,West Side High School Network,Probation,Level 2,No,Average,48,-87.73419465,41.83601953,30,SOUTH LAWNDALE,22,10
+609806,Myra Bradwell Communications Arts & Sciences Elementary School,7736 S Burnham Ave ,Chicago,60649,AUSL Schools,Probation,Level 3,No,Weak,31,-87.55717881,41.7543734,43,SOUTH SHORE,7,4
+609952,Nathanael Greene Elementary School,3525 S Honore ,Chicago,60609,Pershing Elementary Network,Not on Probation,Level 2,Yes,NDA,,-87.67145551,41.82966356,59,MCKINLEY PARK,11,9
+609960,Nathan Hale Elementary School,6140 S Melvina ,Chicago,60638,Midway Elementary Network,Not on Probation,Level 2,No,Average,55,-87.77661589,41.78020486,64,CLEARING,23,8
+610134,Nathaniel Pope Elementary School,1852 S Albany Ave ,Chicago,60623,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Average,48,-87.70299144,41.85570712,29,NORTH LAWNDALE,24,10
+610348,Nathan R Goldblatt Elementary School,4257 W Adams St ,Chicago,60624,Garfield-Humboldt Elementary Network,Probation,Level 3,No,Average,49,-87.73273021,41.87778081,26,WEST GARFIELD PARK,28,11
+609876,Nathan S Davis Elementary School,3014 W 39th Pl ,Chicago,60632,Pershing Elementary Network,Not on Probation,Level 1,No,Average,43,-87.70022859,41.8218786,58,BRIGHTON PARK,14,9
+610231,National Teachers Elementary Academy,55 W Cermak Rd ,Chicago,60616,AUSL Schools,Not on Probation,Level 1,No,Strong,67,-87.62928114,41.85277255,33,NEAR SOUTH SIDE,3,1
+609692,Neal F Simeon Career Academy High School,8147 S Vincennes Ave ,Chicago,60620,South Side High School Network,Probation,Level 3,No,Average,52,-87.63537,41.74579217,44,CHATHAM,21,6
+610085,Near North Elementary School,739 N Ada St ,Chicago,60642,Fulton Elementary Network,Not Applicable,Level 3,No,Average,50,-87.66123981,41.89551132,24,WEST TOWN,27,13
+610284,New Field Elementary School,1707 W Morse Ave ,Chicago,60626,Ravenswood-Ridge Elementary Network,Not on Probation,Level 2,No,NDA,,-87.67315753,42.00767533,1,ROGERS PARK,49,24
+610323,New Millennium High School of Health at Bowen,2710 E 89th St ,Chicago,60617,South Side High School Network,Probation,Level 3,No,Very Weak,17,-87.55775263,41.73376107,46,SOUTH CHICAGO,7,4
+609792,Newton Bateman Elementary School,4220 N Richmond St ,Chicago,60618,O'Hare Elementary Network,Not on Probation,Level 2,No,Average,55,-87.70218806,41.95823045,16,IRVING PARK,33,17
+609730,Nicholas Senn High School,5900 N Glenwood Ave ,Chicago,60660,North-Northwest Side High School Network,Probation,Level 3,No,Average,48,-87.66526222,41.98905063,77,EDGEWATER,48,20
+609793,Nicholson Technology Academy,6006 S Peoria St ,Chicago,60621,Englewood-Gresham Elementary Network,Not on Probation,Level 2,No,Average,48,-87.64748868,41.7849277,68,ENGLEWOOD,16,7
+609961,Ninos Heroes Elementary Academic Center,8344 S Commercial Ave ,Chicago,60617,Skyway Elementary Network,Probation,Level 2,No,Weak,36,-87.55189813,41.74374969,46,SOUTH CHICAGO,10,4
+609810,Norman A Bridge Elementary School,3800 N New England Ave ,Chicago,60634,O'Hare Elementary Network,Not on Probation,Level 2,No,Strong,67,-87.79870722,41.94915063,17,DUNNING,38,16
+609691,North-Grand High School,4338 W Wabansia Ave ,Chicago,60639,West Side High School Network,Probation,Level 2,No,Average,42,-87.73525151,41.91170094,23,HUMBOLDT PARK,31,25
+610354,North River Elementary School,4416 N Troy St ,Chicago,60625,O'Hare Elementary Network,Not on Probation,Level 2,No,Strong,67,-87.70718808,41.96173669,14,ALBANY PARK,33,17
+609749,Northside College Preparatory High School,5501 N Kedzie Ave ,Chicago,60625,North-Northwest Side High School Network,Not on Probation,Level 1,No,Very Strong,99,-87.70867192,41.98135196,13,NORTH PARK,40,17
+609762,Percy L Julian High School,10330 S Elizabeth St ,Chicago,60643,Far South Side High School Network,Probation,Level 3,No,Weak,28,-87.65378585,41.70585971,73,WASHINGTON HEIGHTS,21,22
+609744,Northside Learning Center High School,3730 W Bryn Mawr Ave ,Chicago,60659,North-Northwest Side High School Network,Not Applicable,Not Enough Data,No,Very Strong,99,-87.72238881,41.98299994,13,NORTH PARK,39,17
+610051,Northwest Middle School,5252 W Palmer St ,Chicago,60639,Fullerton Elementary Network,Probation,Level 3,No,Weak,34,-87.75820003,41.92053845,19,BELMONT CRAGIN,37,25
+610099,Norwood Park Elementary School,5900 N Nina Ave ,Chicago,60631,O'Hare Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.80299207,41.98818136,10,NORWOOD PARK,41,16
+610529,Ogden International High School,1250 W Erie St ,Chicago,60622,North-Northwest Side High School Network,Not on Probation,Not Enough Data,No,Average,56,-87.65936676,41.8935757,24,WEST TOWN,27,13
+610201,Ole A Thorp Elementary Scholastic Academy,6024 W Warwick Ave ,Chicago,60634,O'Hare Elementary Network,Not on Probation,Level 1,No,Strong,70,-87.77764028,41.94859865,17,DUNNING,38,16
+610300,Oliver S Westcott Elementary School,409 W 80th St ,Chicago,60620,Skyway Elementary Network,Probation,Level 2,No,Weak,30,-87.63478949,41.74884018,44,CHATHAM,21,6
+609997,Oliver Wendell Holmes Elementary School,955 W Garfield Blvd ,Chicago,60621,Englewood-Gresham Elementary Network,Probation,Level 3,No,Weak,21,-87.64977785,41.79376044,68,ENGLEWOOD,16,7
+610105,Oriole Park Elementary School,5424 N Oketo Ave ,Chicago,60656,O'Hare Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.81209057,41.97851501,10,NORWOOD PARK,41,16
+610329,Orozco Fine Arts & Sciences Elementary School,1940 W 18th St ,Chicago,60608,Pilsen-Little Village Elementary Network,Not on Probation,Level 1,No,Average,55,-87.67519253,41.85778248,31,LOWER WEST SIDE,25,12
+610389,Orr Academy High School,730 N Pulaski Rd ,Chicago,60624,AUSL Schools,Probation,Level 3,No,NDA,,-87.72620305,41.89444828,23,HUMBOLDT PARK,28,11
+609811,Orville T Bright Elementary School,10740 S Calhoun Ave ,Chicago,60617,Lake Calumet Elementary Network,Probation,Level 3,No,Very Weak,18,-87.56212104,41.69973969,51,SOUTH DEERING,10,4
+610367,Oscar DePriest Elementary School,139 S Parkside Ave ,Chicago,60644,Austin-North Lawndale Elementary Network,Probation,Level 2,No,Weak,35,-87.7662615,41.87799914,25,AUSTIN,29,15
+610059,Oscar F Mayer Elementary School,2250 N Clifton Ave ,Chicago,60614,Fullerton Elementary Network,Not on Probation,Level 2,No,Strong,67,-87.65732331,41.92317657,7,LINCOLN PARK,32,18
+610021,Pablo Casals Elementary School,3501 W Potomac Ave ,Chicago,60651,Garfield-Humboldt Elementary Network,Probation,Level 3,No,NDA,,-87.71427105,41.90447488,23,HUMBOLDT PARK,26,14
+610115,Park Manor Elementary School,7037 S Rhodes Ave ,Chicago,60637,Skyway Elementary Network,Probation,Level 3,No,Weak,28,-87.61150917,41.76648584,69,GREATER GRAND CROSSING,6,3
+610116,Parkside Elementary Community Academy,6938 S East End Ave ,Chicago,60649,Skyway Elementary Network,Probation,Level 3,No,NDA,,-87.58299131,41.76856599,43,SOUTH SHORE,5,3
+609988,Patrick Henry Elementary School,4250 N Saint Louis Ave ,Chicago,60618,O'Hare Elementary Network,Not on Probation,Level 1,No,Average,45,-87.71566829,41.95896179,16,IRVING PARK,33,17
+610003,Paul Cuffe Math-Science Technology Academy Elementary School,8324 S Racine Ave ,Chicago,60620,Englewood-Gresham Elementary Network,Probation,Level 3,No,Average,51,-87.65366994,41.74244489,71,AUBURN GRESHAM,21,6
+609676,Paul Laurence Dunbar Career Academy High School,3000 S King Dr ,Chicago,60616,South Side High School Network,Probation,Level 3,No,Weak,29,-87.61767315,41.84018775,35,DOUGLAS,2,1
+610146,Paul Revere Elementary School,1010 E 72nd St ,Chicago,60619,Skyway Elementary Network,Probation,Level 3,No,Weak,36,-87.60017165,41.76422335,69,GREATER GRAND CROSSING,5,3
+609707,Paul Robeson High School,6835 S Normal Blvd ,Chicago,60621,Southwest Side High School Network,Probation,Level 3,No,Weak,29,-87.63711641,41.76973341,68,ENGLEWOOD,6,7
+609791,Perkins Bass Elementary School,1140 W 66th St ,Chicago,60621,Englewood-Gresham Elementary Network,Probation,Level 3,No,Weak,28,-87.65354234,41.77427377,68,ENGLEWOOD,17,7
+610395,Pershing West Middle School,3200 S Calumet Ave ,Chicago,60616,Burnham Park Elementary Network,Not on Probation,Level 2,No,Average,46,-87.61837372,41.83649005,35,DOUGLAS,2,2
+610145,Peter A Reinberg Elementary School,3425 N Major Ave ,Chicago,60634,O'Hare Elementary Network,Not on Probation,Level 1,No,Strong,60,-87.76894541,41.94300407,15,PORTAGE PARK,38,16
+609867,Peter Cooper Elementary Dual Language Academy,1624 W 19th St ,Chicago,60608,Pilsen-Little Village Elementary Network,Not on Probation,Level 2,No,NDA,,-87.66724753,41.85605839,31,LOWER WEST SIDE,25,12
+610147,Philip Rogers Elementary School,7345 N Washtenaw Ave ,Chicago,60645,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Very Strong,81,-87.69714858,42.01526618,2,WEST RIDGE,50,24
+609777,Phillip D Armour Elementary School,950 W 33rd Pl ,Chicago,60608,Pershing Elementary Network,Probation,Level 2,No,Weak,36,-87.65061898,41.8338821,60,BRIDGEPORT,11,9
+610090,Phillip Murray Elementary Language Academy,5335 S Kenwood Ave ,Chicago,60615,Burnham Park Elementary Network,Not on Probation,Level 2,No,Strong,66,-87.59330352,41.79852501,41,HYDE PARK,4,2
+609981,Phobe Apperson Hearst Elementary School,4640 S Lamon Ave ,Chicago,60638,Midway Elementary Network,Probation,Level 3,No,Weak,33,-87.74576315,41.80818821,56,GARFIELD RIDGE,23,8
+610304,Phoenix Military Academy High School,145 S Campbell Ave ,Chicago,60612,West Side High School Network,Not on Probation,Level 1,No,Average,53,-87.68865058,41.87885054,28,NEAR WEST SIDE,2,11
+610013,Pilsen Elementary Community Academy,1420 W 17th St ,Chicago,60608,Pilsen-Little Village Elementary Network,Not on Probation,Level 1,No,Average,43,-87.6622254,41.85887606,31,LOWER WEST SIDE,25,12
+610135,Portage Park Elementary School,5330 W Berteau Ave ,Chicago,60641,O'Hare Elementary Network,Not on Probation,Level 2,No,Strong,62,-87.76100593,41.9570151,15,PORTAGE PARK,38,16
+610138,Pulaski International Academy Elmentary School,2230 W McLean Ave ,Chicago,60647,Fullerton Elementary Network,Not on Probation,Level 1,No,Strong,68,-87.68380061,41.91851374,22,LOGAN SQUARE,32,14
+609842,Rachel Carson Elementary School,5516 S Maplewood Ave ,Chicago,60629,Midway Elementary Network,Not on Probation,Level 2,No,Weak,38,-87.68783576,41.79325514,63,GAGE PARK,16,8
+609902,Ralph H Metcalfe Elementary Community Academy,12339 S Normal Ave ,Chicago,60628,Lake Calumet Elementary Network,Probation,Level 3,No,NDA,,-87.63426928,41.6694559,53,WEST PULLMAN,34,5
+610141,Ravenswood Elementary School,4332 N Paulina St ,Chicago,60613,Ravenswood-Ridge Elementary Network,Not on Probation,Level 2,No,Average,46,-87.67095905,41.96074129,6,LAKE VIEW,47,19
+609769,Ray Graham Training Center High School,2347 S Wabash Ave ,Chicago,60616,South Side High School Network,Not Applicable,Not Enough Data,No,Very Strong,90,-87.6252787,41.84969736,33,NEAR SOUTH SIDE,2,1
+609903,Richard Edwards Elementary School,4815 S Karlov Ave ,Chicago,60632,Midway Elementary Network,Not on Probation,Level 2,No,Average,48,-87.72581893,41.80552325,57,ARCHER HEIGHTS,14,8
+610291,Richard Henry Lee Elementary School,6448 S Tripp Ave ,Chicago,60629,Midway Elementary Network,Not on Probation,Level 2,No,Average,59,-87.72892174,41.77532831,65,WEST LAWN,13,8
+610239,Richard J Daley Elementary Academy,5024 S Wolcott Ave ,Chicago,60609,Pershing Elementary Network,Not on Probation,Level 2,No,Weak,29,-87.67224309,41.80234381,61,NEW CITY,16,9
+610102,Richard J Oglesby Elementary School,7646 S Green St ,Chicago,60620,Englewood-Gresham Elementary Network,Probation,Level 3,No,Average,44,-87.64550666,41.75469091,71,AUBURN GRESHAM,17,6
+609702,Richard T Crane Technical Preparatory High School,2245 W Jackson Blvd ,Chicago,60612,West Side High School Network,Probation,Level 3,No,Average,43,-87.68324922,41.87747384,28,NEAR WEST SIDE,2,12
+610234,Richard Yates Elementary School,1839 N Richmond St ,Chicago,60647,Fullerton Elementary Network,Probation,Level 3,No,Average,42,-87.70024324,41.91502858,22,LOGAN SQUARE,35,14
+609695,Roald Amundsen High School,5110 N Damen Ave ,Chicago,60625,North-Northwest Side High School Network,Probation,Level 3,No,Average,51,-87.67952139,41.97507922,4,LINCOLN SQUARE,47,20
+610350,Robert A Black Magnet Elementary School,9101 S Euclid Ave ,Chicago,60619,Skyway Elementary Network,Not on Probation,Level 1,No,Strong,68,-87.57660534,41.72965645,48,CALUMET HEIGHTS,8,4
+609906,Robert Emmet Elementary School,5500 W Madison St ,Chicago,60644,Austin-North Lawndale Elementary Network,Not on Probation,Level 2,No,Weak,37,-87.76327497,41.88037642,25,AUSTIN,29,15
+609929,Robert Fulton Elementary School,5300 S Hermitage Ave ,Chicago,60609,Pershing Elementary Network,Probation,Level 2,No,Average,46,-87.66847093,41.79754288,61,NEW CITY,16,9
+609979,Robert Healy Elementary School,3010 S Parnell Ave ,Chicago,60616,Pershing Elementary Network,Not on Probation,Level 1,No,Strong,63,-87.64037683,41.83957045,60,BRIDGEPORT,11,9
+610045,Robert H Lawrence Elementary School,9928 S Crandon Ave ,Chicago,60617,Lake Calumet Elementary Network,Probation,Level 3,No,Very Weak,19,-87.56716721,41.71440176,51,SOUTH DEERING,7,4
+609956,Robert L Grimes Elementary School,5450 W 64th Pl ,Chicago,60638,Midway Elementary Network,Not on Probation,Level 1,No,Strong,79,-87.75876919,41.77549238,64,CLEARING,13,8
+610391,Robert Lindblom Math & Science Academy High School,6130 S Wolcott Ave ,Chicago,60636,Southwest Side High School Network,Not on Probation,Level 1,No,Strong,66,-87.67169858,41.7820428,67,WEST ENGLEWOOD,15,7
+610252,Robert Nathaniel Dett Elementary School,2306 W Maypole Ave ,Chicago,60612,Fulton Elementary Network,Not on Probation,Level 1,No,Average,48,-87.68472465,41.88401623,28,NEAR WEST SIDE,2,13
+609759,Roberto Clemente Community Academy High School,1147 N Western Ave ,Chicago,60622,West Side High School Network,Probation,Level 2,No,Average,44,-87.68686934,41.90262318,24,WEST TOWN,1,13
+610029,Rodolfo Lozano Bilingual & International Center Elementary School,1501 N Greenview Ave ,Chicago,60622,Fulton Elementary Network,Not on Probation,Level 2,No,Average,55,-87.66505758,41.90891372,24,WEST TOWN,32,14
+609733,Roger C Sullivan High School,6631 N Bosworth Ave ,Chicago,60626,North-Northwest Side High School Network,Probation,Level 3,No,Weak,30,-87.66915533,42.00268694,1,ROGERS PARK,40,24
+610091,Ronald Brown Elementary Community Academy,12607 S Union Ave ,Chicago,60628,Lake Calumet Elementary Network,Not on Probation,Level 2,No,Weak,31,-87.63892027,41.66484509,53,WEST PULLMAN,9,5
+610282,Ronald E McNair Elementary School,4820 W Walton St ,Chicago,60651,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Weak,31,-87.74674645,41.8978464,25,AUSTIN,37,15
+609826,Rosario Castellanos Elementary School,2524 S Central Park Ave ,Chicago,60623,Pilsen-Little Village Elementary Network,Not on Probation,Level 2,No,Weak,36,-87.71496352,41.84544296,30,SOUTH LAWNDALE,22,10
+610056,Roswell B Mason Elementary School,4217 W 18th St ,Chicago,60623,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Weak,37,-87.73049117,41.85685194,29,NORTH LAWNDALE,24,10
+610027,Rudyard Kipling Elementary School,9351 S Lowe Ave ,Chicago,60620,Rock Island Elementary Network,Not on Probation,Level 2,No,Average,52,-87.63948475,41.72365391,73,WASHINGTON HEIGHTS,21,22
+610250,Rueben Salazar Elementary Bilingual Center,160 W Wendell St ,Chicago,60610,Fullerton Elementary Network,Not on Probation,Level 2,No,Strong,64,-87.63373912,41.90144445,8,NEAR NORTH SIDE,43,18
+609995,Rufus M Hitch Elementary School,5625 N McVicker Ave ,Chicago,60646,O'Hare Elementary Network,Not on Probation,Level 1,Yes,Strong,64,-87.77908614,41.98367756,10,NORWOOD PARK,45,16
+609853,Salmon P Chase Elementary School,2021 N Point St ,Chicago,60647,Fullerton Elementary Network,Not on Probation,Level 2,No,Average,55,-87.69454144,41.91801539,22,LOGAN SQUARE,1,14
+609943,Samuel Gompers Fine Arts Options Elementary School,12302 S State St ,Chicago,60628,Lake Calumet Elementary Network,Not on Probation,Level 2,No,Weak,34,-87.62258098,41.67058298,53,WEST PULLMAN,9,5
+610155,Sauganash Elementary School,6040 N Kilpatrick Ave ,Chicago,60646,O'Hare Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.74599137,41.99117332,12,FOREST GLEN,39,17
+609805,Scott Joplin Elementary School,7931 S Honore St ,Chicago,60620,Englewood-Gresham Elementary Network,Probation,Level 3,No,Weak,35,-87.66932903,41.74934082,71,AUBURN GRESHAM,18,6
+609968,Sharon Christa McAuliffe Elementary School,1841 N Springfield Ave ,Chicago,60647,Fullerton Elementary Network,Probation,Level 3,Yes,NDA,,-87.72389409,41.91480732,20,HERMOSA,30,25
+610157,Sidney Sawyer Elementary School,5248 S Sawyer Ave ,Chicago,60632,Midway Elementary Network,Not on Probation,Level 2,No,Average,57,-87.70504311,41.79752155,63,GAGE PARK,14,8
+610283,Simon Guggenheim Elementary School,7141 S Morgan St ,Chicago,60621,Englewood-Gresham Elementary Network,Probation,Level 3,No,Weak,30,-87.64908807,41.76391032,68,ENGLEWOOD,17,7
+610521,Sir Miles Davis Magnet Elementary Academy,6730 S Paulina St ,Chicago,60636,Englewood-Gresham Elementary Network,Probation,Level 3,No,Weak,35,-87.66656657,41.77122181,67,WEST ENGLEWOOD,15,7
+610534,Skinner North,640 W Scott St ,Chicago,60610,Fullerton Elementary Network,Not on Probation,Not Enough Data,No,NDA,,-87.64483441,41.9051367,8,NEAR NORTH SIDE,27,18
+610226,Socorro Sandoval Elementary School,5534 S Saint Louis Ave ,Chicago,60629,Midway Elementary Network,Probation,Level 3,No,NDA,,-87.71102417,41.79235177,63,GAGE PARK,14,8
+610160,Songhai Elementary Learning Institute,11725 S Perry Ave ,Chicago,60628,Lake Calumet Elementary Network,Probation,Level 3,No,Very Weak,17,-87.62505762,41.68086831,53,WEST PULLMAN,34,5
+609990,South Loop Elementary School,1212 S Plymouth Ct ,Chicago,60605,Burnham Park Elementary Network,Not on Probation,Level 1,No,Very Strong,84,-87.62865124,41.86685634,33,NEAR SOUTH SIDE,2,1
+610530,South Shore Fine Arts Academy,1415 E 70th St ,Chicago,60637,Skyway Elementary Network,Not on Probation,Not Enough Data,No,NDA,,-87.59039017,41.76772772,43,SOUTH SHORE,5,3
+609745,Southside Occupational Academy High School,7342 S Hoyne Ave ,Chicago,60636,Southwest Side High School Network,Not Applicable,Not Enough Data,No,NDA,,-87.6759838,41.75986813,67,WEST ENGLEWOOD,17,7
+610183,Spencer Technology Academy,214 N Lavergne Ave ,Chicago,60644,Austin-North Lawndale Elementary Network,Not on Probation,Level 2,No,Weak,35,-87.75048169,41.88488257,25,AUSTIN,28,15
+610357,Spry Community Links High School,2400 S Marshall Blvd ,Chicago,60623,West Side High School Network,Not on Probation,Level 2,No,Strong,70,-87.69912725,41.84815451,30,SOUTH LAWNDALE,12,10
+609880,Stephen Decatur Classical Elementary School,7030 N Sacramento Ave ,Chicago,60645,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.70465502,42.00930696,2,WEST RIDGE,50,24
+609933,Stephen F Gale Elementary Community Academy,1631 W Jonquil Ter ,Chicago,60626,Ravenswood-Ridge Elementary Network,Probation,Level 3,No,Weak,39,-87.67196481,42.02106425,1,ROGERS PARK,49,24
+609976,Stephen K Hayt Elementary School,1518 W Granville Ave ,Chicago,60660,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Strong,72,-87.6685227,41.99456814,77,EDGEWATER,40,24
+609724,Stephen T Mather High School,5835 N Lincoln Ave ,Chicago,60659,North-Northwest Side High School Network,Not on Probation,Level 2,No,Average,58,-87.70244871,41.9875954,2,WEST RIDGE,40,20
+610191,Stone Elementary Scholastic Academy,6239 N Leavitt St ,Chicago,60659,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Strong,78,-87.68475636,41.99536777,2,WEST RIDGE,50,24
+610405,Suder Montessori Magnet Elementary School,2022 W Washington Blvd ,Chicago,60612,Fulton Elementary Network,Not on Probation,Level 1,No,NDA,,-87.67764871,41.88324176,28,NEAR WEST SIDE,2,13
+610249,Talman Elementary School,5450 S Talman Ave ,Chicago,60632,Midway Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.6902983,41.79407382,63,GAGE PARK,14,9
+610396,Tarkington School of Excellence Elementary School,3330 W 71st St ,Chicago,60629,AUSL Schools,Not on Probation,Level 2,No,Average,48,-87.70642093,41.76443483,66,CHICAGO LAWN,18,8
+610506,TEAM Englewood Community Academy High School,6201 S Stewart Ave ,Chicago,60621,Southwest Side High School Network,Probation,Level 2,No,Average,45,-87.63494163,41.7814927,68,ENGLEWOOD,20,7
+609921,Telpochcalli Elementary School,2832 W 24th Blvd ,Chicago,60623,Pilsen-Little Village Elementary Network,Probation,Level 3,No,Average,42,-87.6966316,41.84797834,30,SOUTH LAWNDALE,12,10
+609991,Theodore Herzl Elementary School,3711 W Douglas Blvd ,Chicago,60623,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Average,41,-87.71825927,41.86225473,29,NORTH LAWNDALE,24,10
+609728,Theodore Roosevelt High School,3436 W Wilson Ave ,Chicago,60625,North-Northwest Side High School Network,Probation,Level 3,No,Average,42,-87.71483051,41.96485522,14,ALBANY PARK,33,17
+610178,Theophilus Schmid Elementary School,9755 S Greenwood Ave ,Chicago,60628,Lake Calumet Elementary Network,Not on Probation,Level 2,No,Average,46,-87.59689622,41.71701772,50,PULLMAN,8,5
+609794,Thomas A Edison Regional Gifted Center Elementary School,4929 N Sawyer Ave ,Chicago,60625,O'Hare Elementary Network,Not on Probation,Level 1,No,Very Strong,91,-87.70962725,41.9711433,14,ALBANY PARK,39,17
+609987,Thomas A Hendricks Elementary Community Academy,4316 S Princeton Ave ,Chicago,60609,Pershing Elementary Network,Probation,Level 3,No,Weak,33,-87.63370133,41.81579314,37,FULLER PARK,3,9
+609851,Thomas Chalmers Specialty Elementary School,2745 W Roosevelt Rd ,Chicago,60608,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Weak,34,-87.69526079,41.8664078,29,NORTH LAWNDALE,28,10
+609896,Thomas Drummond Elementary School,1845 W Cortland St ,Chicago,60622,Fullerton Elementary Network,Not on Probation,Level 1,No,Strong,72,-87.67449563,41.91588634,22,LOGAN SQUARE,32,14
+610002,Thomas Hoyne Elementary School,8905 S Crandon Ave ,Chicago,60617,Skyway Elementary Network,Not on Probation,Level 1,No,Strong,67,-87.5681905,41.73330693,48,CALUMET HEIGHTS,7,4
+610295,Thomas J Higgins Elementary Community Academy,11710 S Morgan St ,Chicago,60643,Lake Calumet Elementary Network,Not on Probation,Level 1,No,NDA,,-87.64702985,41.68100687,53,WEST PULLMAN,34,5
+610220,Thomas J Waters Elementary School,4540 N Campbell Ave ,Chicago,60625,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Very Strong,85,-87.69136881,41.96434835,4,LINCOLN SQUARE,47,19
+609715,Thomas Kelly High School,4136 S California Ave ,Chicago,60632,Southwest Side High School Network,Not on Probation,Level 2,No,Weak,36,-87.69467483,41.81871101,58,BRIGHTON PARK,14,9
+610321,Thurgood Marshall Middle School,3900 N Lawndale Ave ,Chicago,60618,O'Hare Elementary Network,Probation,Level 3,No,Weak,39,-87.72035833,41.9520236,16,IRVING PARK,39,17
+609895,Turner-Drew Elementary Language Academy,9300 S Princeton Ave ,Chicago,60620,Rock Island Elementary Network,Not on Probation,Level 1,No,Average,56,-87.6302048,41.72560849,49,ROSELAND,21,6
+610394,Uplift Community High School,900 W Wilson Ave ,Chicago,60640,North-Northwest Side High School Network,Not on Probation,Level 2,No,Average,50,-87.65252191,41.96557412,3,UPTOWN,46,19
+610504,Velma F Thomas Early Childhood Center,3625 S Hoyne Ave ,Chicago,60609,Pershing Elementary Network,NDA,NDA,No,NDA,,-87.67750501,41.82776914,59,MCKINLEY PARK,11,9
+609989,Victor Herbert Elementary School,2131 W Monroe St ,Chicago,60612,Fulton Elementary Network,Not on Probation,Level 1,No,Average,50,-87.68031236,41.87984242,28,NEAR WEST SIDE,2,12
+609944,Virgil Grissom Elementary School,12810 S Escanaba Ave ,Chicago,60633,Lake Calumet Elementary Network,Not on Probation,Level 2,No,Strong,62,-87.55334334,41.66245712,55,HEGEWISCH,10,4
+610518,VOISE Academy High School,231 N Pine Ave ,Chicago,60644,West Side High School Network,Probation,Level 2,No,Average,42,-87.76321191,41.88520477,25,AUSTIN,28,15
+610363,Walt Disney Magnet Elementary School,4140 N Marine Dr ,Chicago,60613,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,NDA,,-87.6461175,41.95680712,3,UPTOWN,46,19
+610095,Walter L Newberry Math & Science Academy Elementary School,700 W Willow St ,Chicago,60614,Fullerton Elementary Network,Not on Probation,Level 1,No,Strong,71,-87.64601501,41.91397435,7,LINCOLN PARK,43,18
+609680,Walter Payton College Preparatory High School,1034 N Wells St ,Chicago,60610,North-Northwest Side High School Network,Not on Probation,Level 1,No,Very Strong,98,-87.63453744,41.90155157,8,NEAR NORTH SIDE,27,18
+609955,Walter Q Gresham Elementary School,8524 S Green St ,Chicago,60620,Englewood-Gresham Elementary Network,Probation,Level 2,No,Weak,25,-87.64506169,41.73891334,71,AUBURN GRESHAM,21,6
+610264,Walter Reed Elementary School,6350 S Stewart Ave ,Chicago,60621,Englewood-Gresham Elementary Network,Probation,Level 2,No,Weak,29,-87.63515406,41.77839545,68,ENGLEWOOD,20,7
+609855,Walter S Christopher Elementary School,5042 S Artesian Ave ,Chicago,60632,Midway Elementary Network,Probation,Level 3,No,NDA,,-87.68564411,41.8016744,63,GAGE PARK,14,9
+610179,Washington D Smyser Elementary School,4310 N Melvina Ave ,Chicago,60634,O'Hare Elementary Network,Not on Probation,Level 1,No,Average,55,-87.78201198,41.95889037,15,PORTAGE PARK,38,16
+610121,Washington Irving Elementary School,749 S Oakley Blvd ,Chicago,60612,Fulton Elementary Network,Not on Probation,Level 2,No,Average,43,-87.68357939,41.87161238,28,NEAR WEST SIDE,25,12
+609740,Wells Community Academy High School,936 N Ashland Ave ,Chicago,60622,West Side High School Network,Probation,Level 2,No,Average,51,-87.66751989,41.89900506,24,WEST TOWN,1,13
+610032,Wendell E Green Elementary School,1150 W 96th St ,Chicago,60643,Rock Island Elementary Network,Not on Probation,Level 1,No,Weak,32,-87.65248591,41.71931953,73,WASHINGTON HEIGHTS,21,22
+609727,Wendell Phillips Academy High School,244 E Pershing Rd ,Chicago,60653,AUSL Schools,Probation,Level 3,No,NDA,,-87.61978794,41.82390751,35,DOUGLAS,3,2
+609978,Wendell Smith Elementary School,744 E 103rd St ,Chicago,60628,Lake Calumet Elementary Network,Probation,Level 3,No,Weak,22,-87.60468711,41.70758462,50,PULLMAN,8,5
+610100,West Park Elementary Academy,1425 N Tripp Ave ,Chicago,60651,Garfield-Humboldt Elementary Network,Probation,Level 3,No,Weak,29,-87.73240646,41.90691024,23,HUMBOLDT PARK,37,25
+610224,West Pullman Elementary School,11941 S Parnell Ave ,Chicago,60628,Lake Calumet Elementary Network,Probation,Level 3,No,Weak,23,-87.63570683,41.67666008,53,WEST PULLMAN,34,5
+610542,West Ridge Elementary School,6700 N Whipple St ,Chicago,60645,Ravenswood-Ridge Elementary Network,Not on Probation,Not Enough Data,No,Strong,67,-87.70595357,42.00299575,2,WEST RIDGE,50,24
+609755,Whitney M Young Magnet High School,211 S Laflin St ,Chicago,60607,West Side High School Network,Not on Probation,Level 1,No,Very Strong,95,-87.66419634,41.87859028,28,NEAR WEST SIDE,2,12
+610230,Wildwood Elementary School,6950 N Hiawatha Ave ,Chicago,60646,O'Hare Elementary Network,Not on Probation,Level 1,No,Very Strong,99,-87.77837089,42.00747007,12,FOREST GLEN,41,16
+610251,Willa Cather Elementary School,2908 W Washington Blvd ,Chicago,60612,Garfield-Humboldt Elementary Network,Not on Probation,Level 1,No,Strong,69,-87.69922315,41.882977,27,EAST GARFIELD PARK,2,13
+610299,William A Hinton Elementary School,644 W 71st St ,Chicago,60621,Englewood-Gresham Elementary Network,Probation,Level 3,No,Very Weak,18,-87.6413274,41.76536255,68,ENGLEWOOD,6,7
+610109,William Bishop Owen Scholastic Academy Elementary School,8247 S Christiana Ave ,Chicago,60652,Midway Elementary Network,Not on Probation,Level 1,No,Average,49,-87.70571301,41.74287191,70,ASHBURN,18,8
+610101,William B Ogden Elementary School,24 W Walton St ,Chicago,60610,Fullerton Elementary Network,Not on Probation,Level 2,No,NDA,,-87.62928901,41.90003152,8,NEAR NORTH SIDE,42,18
+609945,William C Goudy Elementary School,5120 N Winthrop Ave ,Chicago,60640,Ravenswood-Ridge Elementary Network,Not on Probation,Level 1,No,Strong,70,-87.65794915,41.97581137,3,UPTOWN,48,20
+610143,William C Reavis Math & Science Specialty Elementary School,834 E 50th St ,Chicago,60615,Burnham Park Elementary Network,Probation,Level 3,No,Average,48,-87.6049443,41.80420101,39,KENWOOD,4,2
+610364,William E B Dubois Elementary School,330 E 133rd St ,Chicago,60827,Lake Calumet Elementary Network,Probation,Level 3,No,Average,47,-87.61434156,41.65376037,54,RIVERDALE,9,5
+609884,William E Dever Elementary School,3436 N Osceola Ave ,Chicago,60634,O'Hare Elementary Network,Not on Probation,Level 1,No,Strong,67,-87.813168,41.94254335,17,DUNNING,36,16
+609967,William F Finkl Elementary School,2332 S Western Ave ,Chicago,60608,Pilsen-Little Village Elementary Network,Probation,Level 2,No,Average,56,-87.68570412,41.84919885,31,LOWER WEST SIDE,25,10
+609994,William G Hibbard Elementary School,3244 W Ainslie St ,Chicago,60625,O'Hare Elementary Network,Not on Probation,Level 2,No,NDA,,-87.71036214,41.97036267,14,ALBANY PARK,39,17
+609812,William H Brown Elementary School,54 N Hermitage Ave ,Chicago,60612,Fulton Elementary Network,Probation,Level 2,No,Weak,36,-87.67071879,41.88298698,28,NEAR WEST SIDE,27,13
+610023,William H King Elementary School,740 S Campbell Ave ,Chicago,60612,Fulton Elementary Network,Probation,Level 3,No,Average,47,-87.68875632,41.87186209,28,NEAR WEST SIDE,2,11
+609734,William Howard Taft High School,6530 W Bryn Mawr Ave ,Chicago,60631,North-Northwest Side High School Network,Not on Probation,Level 2,No,Strong,61,-87.7915383,41.98298852,10,NORWOOD PARK,41,16
+610136,William H Prescott Elementary School,1632 W Wrightwood Ave ,Chicago,60614,Fullerton Elementary Network,Not on Probation,Level 2,No,Very Strong,90,-87.66955245,41.92886824,7,LINCOLN PARK,32,19
+610142,William H Ray Elementary School,5631 S Kimbark Ave ,Chicago,60637,Burnham Park Elementary Network,Not on Probation,Level 1,No,Strong,69,-87.59471544,41.79234967,41,HYDE PARK,5,2
+610153,William H Ryder Math & Science Specialty Elementary School,8716 S Wallace St ,Chicago,60620,Englewood-Gresham Elementary Network,Probation,Level 3,No,Weak,34,-87.63887904,41.73536767,71,AUBURN GRESHAM,21,22
+610167,William H Seward Communication Arts Academy Elementary School,4600 S Hermitage Ave ,Chicago,60609,Pershing Elementary Network,Not on Probation,Level 2,No,Average,40,-87.66880778,41.81029632,61,NEW CITY,20,9
+609698,William J Bogan High School,3939 W 79th St ,Chicago,60652,Southwest Side High School Network,Probation,Level 3,No,Weak,20,-87.72109673,41.74934817,70,ASHBURN,18,8
+610061,William J & Charles H Mayo Elementary School,249 E 37th St ,Chicago,60653,Burnham Park Elementary Network,Not on Probation,Level 2,No,Average,52,-87.61978251,41.82732778,35,DOUGLAS,3,2
+610104,William J Onahan Elementary School,6634 W Raven St ,Chicago,60631,O'Hare Elementary Network,Not on Probation,Level 1,No,Strong,64,-87.79308113,41.99381787,10,NORWOOD PARK,41,16
+609678,William Jones College Preparatory High School,606 S State St ,Chicago,60605,South Side High School Network,Not on Probation,Level 1,No,Very Strong,92,-87.62775497,41.87441898,32,LOOP,2,1
+610193,William K New Sullivan Elementary School,8331 S Mackinaw ,Chicago,60617,Skyway Elementary Network,Probation,Level 3,No,Weak,27,-87.542891,41.7438302,46,SOUTH CHICAGO,10,4
+610123,William Penn Elementary School,1616 S Avers Ave ,Chicago,60623,Austin-North Lawndale Elementary Network,Probation,Level 3,No,Strong,78,-87.72133609,41.85836995,29,NORTH LAWNDALE,24,10
+609949,William P Gray Elementary School,3730 N Laramie Ave ,Chicago,60641,O'Hare Elementary Network,Not on Probation,Level 1,No,Average,57,-87.75715297,41.94878107,15,PORTAGE PARK,38,16
+610097,William P Nixon Elementary School,2121 N Keeler Ave ,Chicago,60639,Fullerton Elementary Network,Not on Probation,Level 2,No,Average,52,-87.73138368,41.91959342,20,HERMOSA,30,25
+609711,William Rainey Harper High School,6520 S Wood St ,Chicago,60636,Southwest Side High School Network,Probation,Level 2,No,Weak,22,-87.66912563,41.77511222,67,WEST ENGLEWOOD,15,7
+610232,Williams Multiplex Elementary School,2710 S Dearborn St ,Chicago,60616,Burnham Park Elementary Network,Probation,Level 2,No,NDA,,-87.62859008,41.84403809,35,DOUGLAS,3,1
+610336,Williams Preparatory Academy Middle School,2710 S Dearborn St ,Chicago,60616,Burnham Park Elementary Network,Probation,Level 3,No,Average,49,-87.62859008,41.84403809,35,DOUGLAS,3,1
+610172,William T Sherman Elementary School,1000 W 52nd St ,Chicago,60609,AUSL Schools,Probation,Level 3,No,Weak,32,-87.65025483,41.79978772,61,NEW CITY,16,9
+609844,William W Carter Elementary School,5740 S Michigan Ave ,Chicago,60637,Burnham Park Elementary Network,Probation,Level 3,No,Very Weak,13,-87.62248974,41.78984129,40,WASHINGTON PARK,20,2
+610088,Wolfgang A Mozart Elementary School,2200 N Hamlin Ave ,Chicago,60647,Fullerton Elementary Network,Not on Probation,Level 2,No,Average,41,-87.72192541,41.92092734,22,LOGAN SQUARE,35,25
+609977,Woodlawn Community Elementary School,6657 S Kimbark Ave ,Chicago,60637,Burnham Park Elementary Network,Not on Probation,Level 2,No,Strong,70,-87.59435584,41.77339962,42,WOODLAWN,5,3
+610392,World Language Academy High School,3120 S Kostner Ave ,Chicago,60623,West Side High School Network,Not on Probation,Level 2,No,Average,51,-87.73419465,41.83601953,30,SOUTH LAWNDALE,22,10
