@@ -1,0 +1,299 @@
+---
+title: "ST661 Project"
+author: "Sahil Shashin Shah"
+output:
+  html_document:
+    code_folding: hide
+header-includes:
+ \usepackage{float}
+ \floatplacement{figure}{H}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Weather in Ireland in 2017 {.tabset .tabset-pills}
+
+## Introduction {.tabset .tabset-pills}
+
+### Dataset Details {.tabset .tabset-pills}
+
+This is the aimsir17 dataset, it is from the aimsir17 library, it contains 
+details on the minutely weather in Ireland in 2017. It has three subsets: the 
+eirgrid17 data, the observations data and data on the stations. 
+
+The eirgrid17 set contains 35,040 rows of data with fifteen columns: year, 
+month, day, hour, minute, date, NIGeneration, NIDemand, NIWindAvailability,
+NIWindGeneration, IEGeneration, IEDemand, IEWindAvailability, IEWindGeneration 
+and SNSP. The IE refers to the Republic of Ireland while the NI 
+refers to Northern Ireland, consisting of the counties; Antrim, Armagh, Down, 
+Fermanagh, Derry and Tyrone. 
+
+The observations set contains 219,000 rows of data with twelve columns: station,
+year, month, day, hour, date, rain, temp, rhum, msl, wdsp and wddir.
+
+The stations set contains 25 rows of data with 5 columns: station, county, 
+height, latitude and longitude.
+
+### Column Explanations {.tabset .tabset-pills}
+
+The following are explanations for the columns being used in the analysis.
+
+Rain: rainfall in mm.
+
+Temp: temperature in degrees Celsius.
+
+Rhum: relative humidity percentage.
+
+Msl: mean sea level pressure in hPa.
+
+Wdsp: wind speed in knots, later converted to km/hr.
+
+Wddir: wind direction in degrees.
+
+### We will Discuss {.tabset .tabset-pills}
+
+We will be analysing how the different variables in the observations data affect 
+each other, as well as their trends throughout the year.
+
+We will then focus on wind speed and mean sea level pressure exclusively from 
+the 16th of October, which is when storm Ophelia occurred.
+
+We will also look at the data from the day the storm occurred.
+
+Then, we will remove the 16th of October from the data set and compare it 
+with the original data to see how much it affected the country's total wind 
+speed for the year.
+
+### Methods {.tabset .tabset-pills}
+
+We will be using four libraries: tidyverse, ggplot2, gridExtra and ggpubr
+
+## Data Cleaning {.tabset .tabset-pills}
+
+```{r}
+library(aimsir17)
+eirgrid <- aimsir17::eirgrid17
+observations <- aimsir17::observations
+stations <- aimsir17::stations
+```
+
+```{r include  = FALSE}
+library(tidyverse)
+library(ggplot2)
+library(gridExtra)
+library(ggpubr)
+```
+
+Using the merge() function from the tidyverse package, the eirgird17 and 
+observations data were joined, then that join was merged with the stations data. 
+Then the rows that contained NA values were omitted using na.omit(). The 
+following columns were also omitted; the minutes, SNSP, NIGeneration, NIDemand, 
+NIWindAvailability, NIWindGeneration, IEGeneration, IEDemand, IEWindAvailability
+and IEWindGeneration as we will not be using them.
+```{r results = FALSE}
+join <- merge(eirgrid, observations)
+join2 <- (merge(join,stations))
+colnames(join2)[colSums(is.na(join2)) > 0]
+nrow(join2)
+data <- na.omit(join2)
+data <- data[ , !(names(data) %in% c("minute","SNSP","NIGeneration","NIDemand",
+                                     "NIWindAvailability","NIWindGeneration",
+                                     "IEGeneration","IEDemand",
+                                     "IEWindAvailability","IEWindGeneration"))]
+```
+
+```{r}
+data$date <- sub(" .*", "", data$date)
+data$wdsp <- (data$wdsp*1.852) #converting wdsp from knots to km/hr
+```
+
+```{r}
+data$month <- factor(data$month)
+levels(data$month) <- c("January","February","March","April","May",
+                                 "June","July","August","September","October",
+                                 "November","December")
+```
+
+```{r}
+october <- data %>%
+  filter(data$month == "October")
+ 
+october_df <- data.frame(october)
+```
+
+```{r}
+storm_ophelia <- data %>%
+  filter(date =="2017-10-16")
+```
+
+```{r}
+not_storm_ophelia <- data %>%
+  filter(date != "2017-10-16")
+```
+
+```{r}
+year <- data$year
+month <- data$month
+day <- data$day
+hour <- data$hour
+date <- data$date
+station <- data$station
+rain <- data$rain
+temp <- data$temp
+rhum <- data$rhum
+msl <- data$msl
+wdsp <- data$wdsp
+wddir <- data$wddir
+county <- data$county
+height <- data$height
+latitude <- data$latitude
+longitude <- data$longitude
+```
+
+There were NA values in rain, temp, rhum, msl, wdsp, wddir columns.
+So, in total, 17,757 rows were omitted from the data.
+
+There were no inappropriate data variable types.
+
+## Analysis {.tabset .tabset-pills}
+
+### How the Variables Affect Each Other {.tabset .tabset-pills}
+
+```{r, fig.cap = "Figure 1.1"}
+pairs(rain ~ wdsp + wddir + temp + rhum + msl, data, 
+      col = "green", 
+      pch = 18, 
+      labels = c("Rain", "Wind Speed", "Wind Direction", "Temperature", 
+                 "Humidity", "Pressure"),
+      main = "Pairs Plot of the Weather Variables")
+```
+Figure 1.1 is an overall paired plot of factors involved in the 
+observation table. As the mean sea level pressure increases, the rainfall in mm 
+decreases. When there is more rainfall, humidity is also high. As the mean sea 
+level pressure decreases, the wind speed increases.
+
+### Finding Storm Ophelia from the Data {.tabset .tabset-pills}
+
+```{r echo = FALSE, fig.cap = "Figure 2.1"}
+ggplot(data, aes(month)) + geom_col(aes(y = wdsp, fill = wdsp)) +
+  theme(axis.text.x = element_text(angle = 50, vjust = 1, hjust = 1, size = 12),
+        axis.text.y=element_blank (), axis.ticks.y=element_blank ()) +
+  ggtitle("Wind Speed per Month") +
+  xlab("Month") + ylab("")
+```
+Figure 2.1 is a plot of the total wind speed per month with the blue lightening 
+as the wind speed increases, there is a very light stripe occurring in October, 
+showing that there was a time of very high wind speeds. It is seen here that for
+the month of October the wind speed is the highest.
+
+```{r}
+plot1 <- ggplot(october_df, aes(as.factor(day))) +
+  geom_line(aes(y = (msl)), color = "red", size = 2) +
+  theme(axis.text.x = element_text(angle= 50, vjust = 1, hjust = 1, size = 12))+
+  ggtitle("Mean Sea Level Pressure per Day") +
+  xlab("Day") + ylab("Sea Level Pressure (hPa)") +
+  labs(caption="Figure 2.2")
+
+plot2 <- ggplot(october_df, aes(as.factor(day))) +
+  geom_line(aes(y = (wdsp)), color = "blue", size = 2) +
+  theme(axis.text.x = element_text(angle= 50, vjust = 1, hjust = 1, size = 12))+
+  ggtitle("Wind Speed per Day") +
+  xlab("Day") + ylab("Wind Speed (km/hr)") +
+  labs(caption="Figure 2.3")
+
+grid.arrange(plot1 , plot2)
+```
+
+Figure 2.2 shows that, on the 16th of October, there was an instance of 
+extremely low pressure of 962.2 hPa. This matches with figure 2.3, which, on the
+same day, had records of the highest wind speeds of the month at 109.268 km/hr,
+again showing the relationship between pressure and wind speed.
+
+```{r}
+data %>% 
+  slice_max(wdsp) %>% 
+  select(station,county,wdsp,month,day,hour,date)
+```
+Here we can see that the highest wind speed occurred in Roches Point in Cork at
+12:00pm.
+
+
+### Storm Ophelia Analysis {.tabset .tabset-pills}
+
+```{r}
+plot1 <- ggplot(storm_ophelia, aes(as.factor(hour))) +
+  geom_line(aes(y = (msl)), color = "red", size = 2) +
+  theme(axis.text.x = element_text(angle= 50, vjust = 1, hjust = 1, size = 12))+
+  ggtitle("Mean Sea Level Pressure per Hour") +
+  xlab("Hour") + ylab("Sea Level Pressure (hPa)") +
+  labs(caption="Figure 3.1")
+
+plot2 <- ggplot(storm_ophelia, aes(as.factor(hour))) +
+  geom_line(aes(y = (wdsp)), color = "blue", size = 2) +
+  theme(axis.text.x = element_text(angle= 50, vjust = 1, hjust = 1, size = 12))+
+  ggtitle("Wind Speed per Hour") +
+  xlab("Hour") + ylab("Wind Speed (km/hr)") +
+  labs(caption="Figure 3.2")
+
+grid.arrange(plot1, plot2)
+```
+
+The lowest mean sea level pressure is seen in Figure 3.1 at a land station was 
+observed at 962.2 hPa recorded at Valentia Observatory (County Kerry) on 16th of
+October 2017 when the storm Ophelia occurred. Also, a wind speed of 
+109.268 km/hr was recorded at Roches Point (County Cork) on the same day as per 
+Figure 3.2 and the analysis performed.
+
+### Removing Storm Ophelia Data {.tabset .tabset-pills}
+
+```{r}
+plot1 <- ggplot(not_storm_ophelia,
+                aes(fill = factor(ifelse(month=="October","Highlighted","Normal")))) +
+  geom_col(mapping = aes(x = as.factor(month), y = wdsp)) +
+  ggtitle("Without Storm Ophelia") +
+  xlab("Month") + ylab("Total Wind Speed (km/hr)") +
+  coord_flip()+
+  theme(plot.title = element_text(size = 10, face = "bold"))+     
+  scale_fill_manual(name = "month", values=c("red","grey50")) +
+  theme(legend.position="none") + 
+  labs(caption="Figure 4.1")
+
+plot2 <- ggplot(data,aes(fill = factor(ifelse(month=="October","Highlighted","Normal")))) +
+  geom_col(mapping = aes(x = as.factor(month), y = wdsp)) +
+  ggtitle("With Storm Ophelia",) +
+  xlab("Month") + ylab("Total Wind Speed (km/hr)") +
+  coord_flip()+
+  theme(plot.title = element_text(size = 10, face = "bold"))+
+  scale_fill_manual(name = "month", values=c("red","grey50")) +
+  theme(legend.position="none") + 
+  labs(caption="Figure 4.2")
+
+grid.arrange(plot1, plot2, nrow=1, ncol=2)
+```
+
+This is a comparison of the total wind speed per month with Figure 4.1
+containing the storm Ophelia data and Figure 4.2 with the storm 
+Ophelia data removed. There is a decrease in total wind speed in 
+October when the storm Ophelia data is removed, with the October total becoming
+smaller than the March total.
+
+
+## Conclusions {.tabset .tabset-pills}
+
+So we have successfully completed the analyses of the aimsir17 dataset, we 
+have analysed and compared rain, temperature, wind speed and mean sea level 
+pressure and concluded that wind speed and mean sea level pressure were 
+correlated.
+
+While focusing on the relationship between wind speed and mean sea level 
+pressure we found that the 16th of October had very high wind speed and low 
+mean sea level pressure. Storm Ophelia occurred on this day, which is noticeable 
+from this analysis.
+
+Storm Ophelia was also analysed, we evaluated how high the wind speed was and 
+how low the mean sea level pressure was hourly on that particular day, we then 
+observed that the total wind speed was affected significantly by the data from
+the day storm Ophelia occurred.
+
